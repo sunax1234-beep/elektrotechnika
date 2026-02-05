@@ -1,0 +1,4031 @@
+{
+  "Základné predpisy v elektrotechnike (Legislatíva)": [
+    {
+      "id": 1,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Ktorý zákon uvádza podmienky na zaistenie bezpečnosti a ochrany zdravia pri práci (BOZP)?",
+      "options": [
+        "a) Zákon 264/1999 Z.z.",
+        "b) Zákon 124/2006 Z.z.",
+        "c) Zákon 125/2006 Z.z.",
+        "d) Zákon 309/2007 Z.z."
+      ],
+      "correct_index": 1,
+      "explanation": "Zákon č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene a doplnení niektorých zákonov je kľúčový predpis, ktorý komplexne upravuje podmienky BOZP."
+    },
+    {
+      "id": 2,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "V ktorej vyhláške sú stanovené kvalifikačné predpoklady (odborná spôsobilosť) na vykonávanie činnosti na technických zariadeniach elektrických (TZE)?",
+      "options": [
+        "a) Vyhláška 508/2009 Z.z.",
+        "b) Vyhláška 309/2007 Z.z.",
+        "c) Vyhláška 398/2012 Z.z.",
+        "d) Vyhláška 401/2012 Z.z."
+      ],
+      "correct_index": 0,
+      "explanation": "Vyhláška č. 508/2009 Z. z., ktorou sa ustanovujú podrobnosti na zaistenie bezpečnosti a ochrany zdravia pri práci s technickými zariadeniami elektrickými, upravuje požiadavky na odbornú spôsobilosť elektrotechnikov (napr. § 20, § 21, § 22, § 23 a § 24)."
+    },
+    {
+      "id": 3,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Kto môže byť osoba poverená na obsluhu TZE (technických zariadení elektrických)?",
+      "options": [
+        "a) Každý zamestnanec, ktorého poverí riadiaci pracovník",
+        "b) Len osoba s odbornou spôsobilosťou podľa § 21, § 22, § 23 alebo § 24 Vyhlášky 508/2009 Z.z.",
+        "c) Len osoba s elektrotechnickým vzdelaním a s overenou odbornou spôsobilosťou, okrem § 20 Vyhlášky 508/2009 Z.z.",
+        "d) Každý, kto bol preukázateľne zaškolený a bol poučený o BOZP."
+      ],
+      "correct_index": 3,
+      "explanation": "Na obsluhu jednoduchých TZE môže zamestnávateľ poveriť aj osobu bez elektrotechnického vzdelania (napr. pri práci s bežnými spotrebičmi). Postačuje preukázateľné zaškolenie a poučenie o BOZP, ako je definované v § 19 Vyhlášky 508/2009 Z.z. (osoby poučené)."
+    },
+    {
+      "id": 4,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Kto je osoba s odbornou spôsobilosťou podľa § 20 Vyhlášky 508/2009 Z.z. (osoba poučená)?",
+      "options": [
+        "a) Osoba s elektrotechnickým vzdelaním, ktorá má platné osvedčenie.",
+        "b) Osoba bez elektrotechnického vzdelania, ktorá bola poučená vo vzťahu k svojej práci a jej činnosť súvisí s TZE.",
+        "c) Osoba s elektrotechnickým vzdelaním, ktorá bola poučená.",
+        "d) Každý zamestnanec, ktorého poverí vedúci pracovník."
+      ],
+      "correct_index": 1,
+      "explanation": "Osoba poučená (§ 20) je osoba bez elektrotechnického vzdelania, ktorá bola zamestnávateľom preukázateľne poučená o obsluhe a práci v blízkosti TZE, a zároveň bola oboznámená s predpismi BOZP, ktoré sa týkajú jej činnosti."
+    },
+    {
+      "id": 5,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Aký je požadovaný stupeň odbornej spôsobilosti podľa Vyhlášky 508/2009 Z.z. pre prácu s elektrotechnikou?",
+      "options": [
+        "a) § 20 (poučená), § 21 (elektrotechnik), § 22 (samostatný elektrotechnik), § 23 (vedúci elektrotechnik), § 24 (revízny technik).",
+        "b) § 21 (poučená), § 22 (elektrotechnik), § 23 (samostatný elektrotechnik), § 24 (vedúci elektrotechnik), § 25 (revízny technik).",
+        "c) § 20 (poučená), § 21 (elektrotechnik), § 22 (samostatný elektrotechnik), § 23 (vedúci elektrotechnik).",
+        "d) § 20 (poučená), § 21 (elektrotechnik), § 22 (samostatný elektrotechnik), § 23 (revízny technik)."
+      ],
+      "correct_index": 0,
+      "explanation": "Vyhláška 508/2009 Z.z. definuje päť stupňov odbornej spôsobilosti: § 20 – poučená osoba, § 21 – elektrotechnik, § 22 – samostatný elektrotechnik, § 23 – vedúci elektrotechnik a § 24 – revízny technik."
+    },
+    {
+      "id": 6,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Kto je osoba s odbornou spôsobilosťou podľa § 21 Vyhlášky 508/2009 Z.z. (elektrotechnik)?",
+      "options": [
+        "a) Osoba s najmenej úplným stredným odborným elektrotechnickým vzdelaním alebo vyšším, ktorá získala osvedčenie po overení vedomostí.",
+        "b) Osoba s najmenej stredným odborným elektrotechnickým vzdelaním, ktorá má vedomosti overené.",
+        "c) Osoba s elektrotechnickým vzdelaním, ktorá bola poučená.",
+        "d) Osoba bez elektrotechnického vzdelania, ktorá vykonáva jednoduché práce."
+      ],
+      "correct_index": 0,
+      "explanation": "Elektrotechnik (§ 21) je osoba s elektrotechnickým vzdelaním (napr. stredná odborná škola, vysokoškolské), ktorá absolvovala overenie vedomostí u oprávnenej právnickej osoby (OPPO) a získala osvedčenie."
+    },
+    {
+      "id": 7,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Kto je osoba s odbornou spôsobilosťou podľa § 22 Vyhlášky 508/2009 Z.z. (samostatný elektrotechnik)?",
+      "options": [
+        "a) Elektrotechnik, ktorý môže samostatne vykonávať činnosť na TZE vrátane riadenia činnosti.",
+        "b) Elektrotechnik s praxou min. 1 rok, ktorý má osvedčenie s vyšším rozsahom a môže riadiť činnosť do 5 osôb.",
+        "c) Elektrotechnik, ktorý má prax min. 1 rok a zložil skúšku na Inšpektoráte práce.",
+        "d) Elektrotechnik s praxou min. 2 roky, ktorý má overenú spôsobilosť na samostatné vykonávanie činnosti."
+      ],
+      "correct_index": 3,
+      "explanation": "Samostatný elektrotechnik (§ 22) je elektrotechnik s požadovanou dĺžkou praxe (napr. 2 roky pri stredoškolskom vzdelaní) v príslušnej oblasti, ktorý má osvedčenie s rozsiahlejšími oprávneniami na samostatné vykonávanie činností."
+    },
+    {
+      "id": 8,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Kto je osoba s odbornou spôsobilosťou podľa § 23 Vyhlášky 508/2009 Z.z. (vedúci elektrotechnik)?",
+      "options": [
+        "a) Elektrotechnik, ktorý môže viesť a riadiť skupinu zamestnancov a ich prácu (neobmedzený počet).",
+        "b) Elektrotechnik, ktorý má prax min. 1 rok a zložil skúšku na Inšpektoráte práce.",
+        "c) Elektrotechnik, ktorý má prax min. 3 roky, má vyššie osvedčenie a môže riadiť a kontrolovať práce na TZE.",
+        "d) Elektrotechnik, ktorý má prax min. 2 roky a zložil skúšku u oprávnenej právnickej osoby."
+      ],
+      "correct_index": 2,
+      "explanation": "Vedúci elektrotechnik (§ 23) je elektrotechnik s dlhšou praxou (napr. 3 roky pri stredoškolskom vzdelaní), ktorý môže riadiť činnosť a kontrolovať práce na TZE, vrátane vydávania príkazov B (bezpečnej práce)."
+    },
+    {
+      "id": 9,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Kto je osoba s odbornou spôsobilosťou podľa § 24 Vyhlášky 508/2009 Z.z. (revízny technik)?",
+      "options": [
+        "a) Elektrotechnik, ktorý má prax min. 5 rokov, zložil skúšku na Inšpektoráte práce a môže vykonávať revízie TZE.",
+        "b) Elektrotechnik, ktorý môže vykonávať úradné skúšky TZE.",
+        "c) Elektrotechnik, ktorý má osvedčenie a vykonáva kontroly TZE.",
+        "d) Osoba s úplným stredným odborným elektrotechnickým vzdelaním, ktorá má overenú spôsobilosť."
+      ],
+      "correct_index": 0,
+      "explanation": "Revízny technik (§ 24) je elektrotechnik s najdlhšou požadovanou praxou, ktorý úspešne vykonal skúšku pred komisiou (Inšpektorát práce) a má oprávnenie vykonávať odborné prehliadky a odborné skúšky (revízie) TZE."
+    },
+    {
+      "id": 10,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Aká je podmienka na zachovanie platnosti osvedčenia o odbornej spôsobilosti (napr. § 21, 22, 23)?",
+      "options": [
+        "a) Každé 3 roky preskúšanie u zamestnávateľa",
+        "b) Absolvovanie aktualizačnej odbornej prípravy (AOP) každých 5 rokov",
+        "c) Platí neobmedzene bez ďalšieho vzdelávania",
+        "d) Platí neobmedzene, pokiaľ nezmení zamestnanie"
+      ],
+      "correct_index": 1,
+      "explanation": ": Podľa § 16 zákona č. 124/2006 Z. z. osvedčenie zaniká, ak osoba neabsolvuje AOP každých 5 rokov."
+    },
+    {
+      "id": 11,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Aký doklad potvrdzuje odbornú spôsobilosť (napr. § 21, § 22, § 23)?",
+      "options": [
+        "a) Osvedčenie (potvrdené Inšpektorátom práce)",
+        "b) Osvedčenie (potvrdené oprávnenou právnickou osobou)",
+        "c) Potvrdenie (potvrdené zamestnávateľom)",
+        "d) Preukaz (potvrdený odbornou komisiou)"
+      ],
+      "correct_index": 1,
+      "explanation": "Osvedčenia pre elektrotechnikov (§ 21, § 22, § 23) vydáva Oprávnená právnická osoba (OPPO) po úspešnom overení vedomostí."
+    },
+    {
+      "id": 12,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Aký doklad potvrdzuje odbornú spôsobilosť fyzickej osoby na vykonávanie činnosti revízneho technika podľa § 24?",
+      "options": [
+        "a) Osvedčenie",
+        "b) Oprávnenie",
+        "c) Preukaz",
+        "d) Potvrdenie o absolvovaní školenia"
+      ],
+      "correct_index": 0,
+      "explanation": "Fyzická osoba (revízny technik) získava po úspešnom overení odborných vedomostí osvedčenie, ktoré vydáva oprávnená právnická osoba (napr. Technická inšpekcia)."
+    },
+    {
+      "id": 13,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Kto vydáva osvedčenia pre elektrotechnikov (§ 21, § 22, § 23)?",
+      "options": [
+        "a) Zamestnávateľ",
+        "b) Inšpektorát práce (IP)",
+        "c) Ministerstvo práce, sociálnych vecí a rodiny SR",
+        "d) Oprávnená právnická osoba (OPPO)"
+      ],
+      "correct_index": 3,
+      "explanation": "Overovanie vedomostí a vydávanie osvedčení pre § 21, § 22 a § 23 vykonávajú Oprávnené právnické osoby (OPPO), ktoré sú na to autorizované Národným inšpektorátom práce."
+    },
+    {
+      "id": 14,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Aký druh osvedčenia potrebuje elektrotechnik (samostatný elektrotechnik, vedúci elektrotechnik, revízny technik) pre vykonávanie činnosti v EZ (elektrotechnické zariadenia) s napätím > 1000 V?",
+      "options": [
+        "a) Osvedčenie s vyšším rozsahom",
+        "b) Osvedčenie na prácu bez napätia",
+        "c) Osvedčenie na prácu pod napätím",
+        "d) Osvedčenie na prácu v pásme ohrozenia"
+      ],
+      "correct_index": 0,
+      "explanation": "Na práce vo vyššom rozsahu, čo znamená práce na technických zariadeniach elektrických s napätím nad 1000 V (vrátane), je potrebné osvedčenie, resp. oprávnenie s 'vyšším rozsahom'."
+    },
+    {
+      "id": 15,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Akú odbornú spôsobilosť musí mať zamestnanec, ktorý má vykonávať dozor nad osobami poučenými (§ 20)?",
+      "options": [
+        "a) § 20 (osoba poučená)",
+        "b) § 21 (elektrotechnik) alebo vyššiu.",
+        "c) § 22 (samostatný elektrotechnik) alebo vyššiu.",
+        "d) § 23 (vedúci elektrotechnik) alebo vyššiu."
+      ],
+      "correct_index": 1,
+      "explanation": "Dozor nad prácami osôb poučených (§ 20) musí vykonávať osoba s odbornou spôsobilosťou aspoň elektrotechnik (§ 21), aby sa zaistila bezpečnosť a správne dodržiavanie postupov."
+    },
+    {
+      "id": 16,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Legislatíva)",
+      "question": "Kto môže poveriť zamestnancov (§ 20) pre obsluhu a prácu na EZ?",
+      "options": [
+        "a) Len riadiaci pracovník s kvalifikáciou vedúci elektrotechnik.",
+        "b) Vedúci zamestnanec určený zamestnávateľom.",
+        "c) Len revízny technik.",
+        "d) Len odborný zástupca pre elektro."
+      ],
+      "correct_index": 1,
+      "explanation": "Poverenie a oboznámenie osôb poučených (§ 20) vykonáva zamestnávateľ prostredníctvom svojho vedúceho zamestnanca, ktorého na to určí."
+    },
+    {
+      "id": 17,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je najvyšší dovolený dotykový prúd pre zdravé dospelé osoby pri striedavom prúde (AC) a jednosmernom prúde (DC)?",
+      "options": [
+        "a) AC 3,5 mA, DC 10 mA",
+        "b) AC 0,5 mA, DC 2 mA",
+        "c) AC 10 mA, DC 50 mA",
+        "d) AC 5 mA, DC 10 mA"
+      ],
+      "correct_index": 3,
+      "explanation": "Norma STN EN 61140 stanovuje maximálny dovolený ustálený prúd. Pre ochranu pred nebezpečenstvom fibrilácie sa často pre nebezpečné miesta uvádza 5 mA (AC) a 10 mA (DC) ako hranica nebezpečenstva pre dospelého človeka."
+    },
+    {
+      "id": 18,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je najvyšší dovolený dotykový prúd pre dieťa pri striedavom prúde (AC)?",
+      "options": [
+        "a) 3,5 mA",
+        "b) 5 mA",
+        "c) 0,5 mA",
+        "d) 10 mA"
+      ],
+      "correct_index": 2,
+      "explanation": "Limit pre deti a choré osoby je obvykle stanovený prísnejšie. Pre AC prúd sa často používa hodnota 0,5 mA ako bezpečný dlhodobý limit."
+    },
+    {
+      "id": 19,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je nebezpečný dotykový prúd (pri AC), pri ktorom nastáva kŕč svalov a postihnutý už nemôže pustiť vodič (tzv. prah odpútania)?",
+      "options": [
+        "a) 5 - 10 mA",
+        "b) 20 - 25 mA",
+        "c) 40 - 50 mA",
+        "d) 80 - 100 mA"
+      ],
+      "correct_index": 0,
+      "explanation": "Pri prúde AC v rozmedzí 5 mA až 10 mA pretekajúcom rukou nastáva prah prúdu, pri ktorom človek už nedokáže ovládať svaly a nemôže sa od vodiča pustiť."
+    },
+    {
+      "id": 20,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je najnebezpečnejší prúd pre ľudské telo, ktorý preteká cez srdce (fibrilácia komôr)?",
+      "options": [
+        "a) 25 - 50 mA",
+        "b) 50 - 100 mA",
+        "c) 150 - 200 mA",
+        "d) 250 - 300 mA"
+      ],
+      "correct_index": 1,
+      "explanation": "Prúd 50 mA až 100 mA (AC), ktorý preteká cez oblasť srdca, je najnebezpečnejší, pretože v ňom môže vyvolať fibriláciu komôr."
+    },
+    {
+      "id": 21,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je povolený čas dotyku pri napätí 230 V (AC)?",
+      "options": [
+        "a) 0,4 s",
+        "b) 1 s",
+        "c) 2 s",
+        "d) Čas nie je obmedzený"
+      ],
+      "correct_index": 0,
+      "explanation": "Pri štandardnom sieťovom napätí 230 V AC je maximálny čas odozvy ochrany pri poruche (priamy dotyk) obmedzený na 0,4 sekundy."
+    },
+    {
+      "id": 22,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je základný stupeň ochrany pred úrazom elektrickým prúdom?",
+      "options": [
+        "a) Zabránenie dotyku nebezpečných živých častí izoláciou, krytmi, zábranami, prekážkami.",
+        "b) Ochrana automatickým odpojením napájania (napr. istením).",
+        "c) Použitie bezpečného malého napätia (SELV/PELV).",
+        "d) Použitie prúdového chrániča."
+      ],
+      "correct_index": 0,
+      "explanation": "Základná ochrana (ochrana pri normálnej prevádzke) je ochrana, ktorá bráni priamemu dotyku so živými časťami – primárne izoláciou a krytmi."
+    },
+    {
+      "id": 23,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je zvýšený stupeň ochrany pred úrazom elektrickým prúdom (ochrana pri poruche)?",
+      "options": [
+        "a) Použitie prúdového chrániča (RCD).",
+        "b) Ochrana automatickým odpojením napájania (vypnutie istenia).",
+        "c) Použitie bezpečného malého napätia (SELV/PELV).",
+        "d) Spojenie krytov s ochranným vodičom (PE)."
+      ],
+      "correct_index": 1,
+      "explanation": "Ochrana pri poruche (zvýšená ochrana) je ochrana, ktorá zabraňuje dotyku neživých častí pod napätím pri poruche základnej izolácie. Najbežnejším opatrením je automatické odpojenie napájania."
+    },
+    {
+      "id": 24,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aká je hodnota bezpečného malého napätia (SELV) pre striedavé napätie (AC)?",
+      "options": [
+        "a) Do 25 V",
+        "b) Do 50 V",
+        "c) Do 100 V",
+        "d) Do 120 V"
+      ],
+      "correct_index": 1,
+      "explanation": "Bezpečné malé napätie (SELV) pre striedavý prúd je definované do 50 V (AC). Pre jednosmerný prúd (DC) je to do 120 V."
+    },
+    {
+      "id": 25,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aké tri základné technické opatrenia sa používajú pri ochrane automatickým odpojením napájania (ochrana pri poruche)?",
+      "options": [
+        "a) Vodič PE (ochranný), Vodič N (neutrálny), Prúdový chránič (RCD).",
+        "b) Hlavné ochranné pospájanie, Doplnkové ochranné pospájanie, Uzemnenie.",
+        "c) Ochranný vodič (PE), Uzemnenie, Prúdový chránič (RCD).",
+        "d) Izolácia, Kryty, Bariéry."
+      ],
+      "correct_index": 2,
+      "explanation": "Ochrana automatickým odpojením napájania si vyžaduje tieto prvky: Uzemnenie, Ochranný vodič (PE) a/alebo Prúdový chránič (RCD)."
+    },
+    {
+      "id": 26,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je maximálny menovitý rozdielový prúd prúdového chrániča (RCD), aby bola zabezpečená ochrana pred úrazom elektrickým prúdom (doplnková ochrana)?",
+      "options": [
+        "a) 10 mA",
+        "b) 30 mA",
+        "c) 100 mA",
+        "d) 300 mA"
+      ],
+      "correct_index": 1,
+      "explanation": "Na zabezpečenie doplnkovej ochrany pred úrazom elektrickým prúdom (pre laikov/domácnosti) sa musí použiť prúdový chránič s vypínacím prúdom neprevyšujúcim 30 mA."
+    },
+    {
+      "id": 27,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Akú ochranu pred úrazom elektrickým prúdom zabezpečuje prúdový chránič (RCD) s menovitým rozdielovým prúdom 300 mA?",
+      "options": [
+        "a) Doplnkovú ochranu (ochrana života)",
+        "b) Ochrana pred požiarom",
+        "c) Ochrana pred prepätím",
+        "d) Ochrana pred preťažením"
+      ],
+      "correct_index": 1,
+      "explanation": "Prúdové chrániče s vyššou citlivosťou (100 mA, 300 mA) sa používajú primárne na ochranu pred požiarom."
+    },
+    {
+      "id": 28,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je minimálny prierez (mm²) ochranného vodiča (PE)?",
+      "options": [
+        "a) 1,5 mm²",
+        "b) 2,5 mm²",
+        "c) 4 mm²",
+        "d) 6 mm²"
+      ],
+      "correct_index": 0,
+      "explanation": "Ak sú vodiče vyrobené z rovnakého materiálu ako fázové vodiče a sú mechanicky chránené, musí byť ich prierez minimálne 1,5 mm²."
+    },
+    {
+      "id": 29,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je minimálny prierez (mm²) vodiča PEN?",
+      "options": [
+        "a) 2,5 mm²",
+        "b) 4 mm²",
+        "c) 6 mm²",
+        "d) 10 mm²"
+      ],
+      "correct_index": 3,
+      "explanation": "Vodič PEN sa môže použiť len v obvodoch s prierezom fázových vodičov minimálne 10 mm² (meď) alebo 16 mm² (hliník)."
+    },
+    {
+      "id": 30,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aké technické zariadenia elektrické (TZE) podliehajú revízii (odbornej prehliadke a skúške)?",
+      "options": [
+        "a) Len spotrebiče",
+        "b) Len elektroinštalácie",
+        "c) Len bleskozvody",
+        "d) Elektroinštalácie, bleskozvody, EZ na ochranu pred účinkami atmosferickej elektriny a prepätím a elektrické spotrebiče"
+      ],
+      "correct_index": 3,
+      "explanation": "Revíziám podlieha celá škála TZE, vrátane inštalácií, bleskozvodov a spotrebičov podľa Vyhlášky 508/2009 Z.z."
+    },
+    {
+      "id": 31,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je interval (rok) pre pravidelnú revíziu v prostredí bez nebezpečenstva požiaru (napr. byty, kancelárie, normálne prostredie)?",
+      "options": [
+        "a) 2 roky",
+        "b) 3 roky",
+        "c) 4 roky",
+        "d) 5 rokov"
+      ],
+      "correct_index": 3,
+      "explanation": "V objektoch bez zvýšeného rizika požiaru alebo výbuchu je interval pravidelnej revízie elektrickej inštalácie 5 rokov."
+    },
+    {
+      "id": 32,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je interval (rok) pre pravidelnú revíziu v prostredí s nebezpečenstvom požiaru (napr. drevovýroba, sklady, archívy)?",
+      "options": [
+        "a) 1 rok",
+        "b) 2 roky",
+        "c) 3 roky",
+        "d) 4 roky"
+      ],
+      "correct_index": 1,
+      "explanation": "V objektoch so zvýšeným nebezpečenstvom požiaru, mokrých a vlhkých priestoroch sa interval revízie skracuje na 2 roky."
+    },
+    {
+      "id": 33,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je interval (rok) pre pravidelnú revíziu bleskozvodu?",
+      "options": [
+        "a) 1 rok",
+        "b) 2 roky",
+        "c) 3 roky",
+        "d) 4 roky"
+      ],
+      "correct_index": 3,
+      "explanation": "Podľa noriem STN EN 62305 a Vyhlášky 508/2009 Z.z. je odporúčaný interval revízie pre sústavu ochrany pred bleskom (LPS) obvykle 4 roky."
+    },
+    {
+      "id": 34,
+      "kategoria_tema": "Základné predpisy v elektrotechnike (Ochrana pred úrazom el. prúdom)",
+      "question": "Aký je menovitý prúd pre zásuvkové obvody (AC) pre bežné použitie?",
+      "options": [
+        "a) 10 A",
+        "b) 16 A",
+        "c) 25 A",
+        "d) 32 A"
+      ],
+      "correct_index": 1,
+      "explanation": "Štandardný menovitý prúd pre bežné zásuvkové obvody v inštaláciách (byty, kancelárie) je 16 A."
+    },
+    {
+      "id": 35,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Do akej polohy dáme postihnutého, keď postihnutý je v bezvedomí, avšak dýcha, má hmatateľný pulz a nemá známky vážnejšieho zranenia?",
+      "options": [
+        "a) Vodorovná poloha na boku, hlavu zakloniť",
+        "b) Vodorovná poloha na boku, hlavu predkloniť",
+        "c) Vodorovná poloha na chrbte, hlavu zakloniť",
+        "d) Vodorovná poloha na chrbte, hlavu predkloniť"
+      ],
+      "correct_index": 0,
+      "explanation": "Pri bezvedomí a zachovanom dýchaní/pulze sa používa stabilizovaná poloha na boku. Zaklonenie hlavy je kľúčové pre priechodnosť dýchacích ciest."
+    },
+    {
+     "id": 36,
+  "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+  "question": "Aký je správny postup kardiopulmonálnej resuscitácie (KPR) u dospelej osoby, ktorá nereaguje a nedýcha normálne?",
+  "options": [
+    "a) Začneme 5 vdychmi a pokračujeme masážou v pomere 15:2",
+    "b) Okamžite začneme stláčaním hrudníka a následne striedame 30 stlačení a 2 vdychy",
+    "c) Vykonávame len umelé dýchanie s frekvenciou 12 vdychov za minútu",
+    "d) Najprv kontrolujeme pulz na zápästí aspoň 1 minútu"
+  ],
+  "correct_index": 1,
+  "explanation": "Podľa moderných smerníc (ERC) sa u dospelých začína kompresiami hrudníka. Pomer stlačení k vdychom je $30:2$ s frekvenciou 100 – 120 stlačení za minútu."
+    },
+    {
+      "id": 37,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Je treba začať s umelým dýchaním aj vtedy, keď postihnutého našli už dlhší čas po úraze, keď nie sú známky istej smrti?",
+      "options": [
+        "a) Nie, umelé dýchanie už nie je potrebné",
+        "b) Áno, treba začať s umelým dýchaním"
+      ],
+      "correct_index": 1,
+      "explanation": "Resuscitácia sa má začať vždy, ak nie sú prítomné isté známky smrti (napr. stuhnutosť, mŕtvolné škvrny). Nikdy nie je dobré predpokladať smrť bez potvrdenia lekárom."
+    },
+    {
+      "id": 38,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Podľa akých vonkajších príznakov záchranca zistí, že umelé dýchanie je neúčinné?",
+      "options": [
+        "a) Podľa rýchleho pulzu postihnutého",
+        "b) Tvár je bledá a zrenice sú rozšírené",
+        "c) Tvár postihnutého je červená",
+        "d) Nie je to možné zistiť"
+      ],
+      "correct_index": 1,
+      "explanation": "Bledosť a rozšírené zrenice nereagujúce na svetlo sú silné známky nedostatku kyslíka v mozgu."
+    },
+    {
+      "id": 39,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Čo ďalej robíme, keď zistíme, že umelé dýchanie je neúčinné (robíme ho správne) a postihnutý nemá hmatateľný pulz?",
+      "options": [
+        "a) Zväčšíme frekvenciu vdychov",
+        "b) Doplníme oživovanie nepriamou masážou srdca",
+        "c) Ukončíme oživovacie činnosti"
+      ],
+      "correct_index": 1,
+      "explanation": "Ak zlyhá aj srdce, začne sa kompletná kardiopulmonálna resuscitácia (KPR), ktorá kombinuje umelé dýchanie s masážou srdca."
+    },
+    {
+      "id": 40,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Keď postihnutý začne dýchať sám, ale jeho samostatné vdychy sú slabé. Pokračujeme v umelom dýchaní „z úst do úst“?",
+      "options": [
+        "a) Môžeme pomôcť postihnutému, ale v jeho rytme dýchania",
+        "b) Nesmieme pokračovať v umelom dýchaní"
+      ],
+      "correct_index": 0,
+      "explanation": "Ak je spontánne dýchanie nedostatočné, záchranca môže 'asistovať' v dýchaní, aby zabezpečil dostatočný prísun kyslíka."
+    },
+    {
+      "id": 41,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Môže sa umelé dýchanie prerušiť počas nepriamej masáže srdca na dlhšiu dobu?",
+      "options": [
+        "a) Áno, môže sa prerušiť na maximálne 2 minúty",
+        "b) Nie, nesmie sa prerušiť",
+        "c) Áno, môže sa prerušiť na maximálne 3 minúty",
+        "d) Áno, môže sa prerušiť na maximálne 4 minúty"
+      ],
+      "correct_index": 1,
+      "explanation": "Pri resuscitácii je kľúčové minimalizovať prerušenia. Prerušenie by malo trvať len na nutný čas na vykonanie 2 vdychov."
+    },
+    {
+      "id": 42,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Aká je frekvencia rytmického stláčania hrudnej kosti smerom ku chrbtici pri nepriamej masáži srdca?",
+      "options": [
+        "a) 12 (až 16) krát za minútu",
+        "b) Asi 25 krát za minútu",
+        "c) 100 až 120 krát za minútu",
+        "d) Asi 150 krát za minútu"
+      ],
+      "correct_index": 2,
+      "explanation": "Aktuálne medzinárodné smernice (ERC) odporúčajú frekvenciu kompresií 100 – 120 za minútu."
+    },
+    {
+      "id": 43,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ako robí oživovanie (resuscitáciu) jeden záchranca, keď postihnutý nedýcha a nemá pulz?",
+      "options": [
+        "a) V pomere 16:1 (16 kompresií a 1 vdych)",
+        "b) V pomere 30:2 (30 kompresií a 2 vdychy)",
+        "c) V pomere 14:4 (14 kompresií a 4 vdychy)",
+        "d) V pomere 12:8 (12 kompresií a 8 vdychy)"
+      ],
+      "correct_index": 1,
+      "explanation": "Pomer 30 kompresií hrudníka k 2 záchranným vdychom je štandardný pomer pre dospelých podľa medzinárodných smerníc."
+    },
+    {
+      "id": 44,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Kedy záchranca ošetrí zistené poranenia, ak postihnutý nejaví známky života, nemá veľké popáleniny a nekrváca z tepien?",
+      "options": [
+        "a) Pred začiatkom umelého dýchania",
+        "b) Keď sa postihnutému obnoví činnosť srdca a začne pravidelne dýchať",
+        "c) Nie je dôležité poradie úkonov",
+        "d) Pred začatím nepriamej masáže srdca"
+      ],
+      "correct_index": 1,
+      "explanation": "Kým nie sú obnovené životné funkcie, je prioritná resuscitácia. Ošetrenie raniek/zlomenín je druhotné."
+    },
+    {
+      "id": 45,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Pri krvácaní z rán tepny krv strieka prerušovane a pri krvácaní zo žíl krv tečie neprerušene. Akým spôsobom sa snažíme krvácanie zastaviť?",
+      "options": [
+        "a) Priložením obväzu alebo čistej látky a prelepením",
+        "b) Priložením tlakového obväzu",
+        "c) Nepriamou masážou srdca"
+      ],
+      "correct_index": 1,
+      "explanation": "Pri silnom krvácaní sa má prioritne použiť tlakový obväz, ktorý vyvíja dostatočný tlak na ranu."
+    },
+    {
+      "id": 46,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Kde stiahneme končatinu pri krvácaní z veľkých tepien a čo ešte musíme urobiť?",
+      "options": [
+        "a) Nad ranou obvínadlom, pripojíme lístok s časom priloženia",
+        "b) Pod ranou obvínadlom, pripojíme lístok s časom priloženia",
+        "c) Miesto stiahnutia nie je dôležité"
+      ],
+      "correct_index": 0,
+      "explanation": "Ak je nutné použiť škrtidlo, priloží sa nad ranu (bližšie k srdcu). Zaznamenanie času je kľúčové kvôli riziku ischémie."
+    },
+    {
+      "id": 47,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Môžu sa otvorené rany alebo popáleniny vymývať alebo natierať?",
+      "options": [
+        "a) Áno - tinktúrou",
+        "b) Nie - nesmú sa ničím vymývať ani natierať",
+        "c) Áno - čistou vodou",
+        "d) Áno - dezinfekčným prostriedkom"
+      ],
+      "correct_index": 1,
+      "explanation": "Rany a popáleniny sa nesmú natierať masťami ani práškami, aby sa nekomplikovalo následné sterilné ošetrenie lekárom."
+    },
+    {
+      "id": 48,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ako treba ošetriť otvorené rany, aby sa zabránilo infekcii?",
+      "options": [
+        "a) Ranu vymyjeme a obviažeme ju",
+        "b) Okolie rany očistíme a ranu zakryjeme sterilným obväzom",
+        "c) Z rany vyberieme nečistoty a obviažeme ju",
+        "d) Do rany nezasahujeme"
+      ],
+      "correct_index": 1,
+      "explanation": "Prvá pomoc spočíva v minimalizácii kontaminácie. Okolie rany sa očistí a samotná rana sa sterilne zakryje."
+    },
+    {
+      "id": 49,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ako postupujeme pri ošetrení zlomenín alebo vykĺbenín?",
+      "options": [
+        "a) Napravíme ich a znehybníme",
+        "b) Nenaprávame ich, len ich znehybníme pomocou dláh",
+        "c) Ošetrenie zlomenín a vykĺbenín necháme na privolaného lekára"
+      ],
+      "correct_index": 1,
+      "explanation": "Pri prvej pomoci sa zlomeniny nikdy nenaprávajú. Kľúčové je znehybnenie končatiny v polohe, v akej bola nájdená."
+    },
+    {
+      "id": 50,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ako robia oživovanie (resuscitáciu) dvaja záchrancovia, keď postihnutý nedýcha a nemá hmatateľný pulz?",
+      "options": [
+        "a) V pomere 30:2 (robia 30 kompresií a 2 vdychy)",
+        "b) V pomere 60:12 (60 kompresií a 12 vdychov)",
+        "c) V pomere 30:5 (30 kompresií a 5 vdychov)",
+        "d) V pomere 25:1 (25 kompresií a 1 vdych)"
+      ],
+      "correct_index": 0,
+      "explanation": "Pomer 30:2 je univerzálny štandard pre dospelých pri KPR bez ohľadu na počet záchrancov."
+    },
+    {
+      "id": 51,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ako robíme umelé dýchaní „z pľúc do pľúc\", ak zostanú ústa postihnutého v kŕči pevne zavreté?",
+      "options": [
+        "a) Ústa mu otvoríme aj násilím",
+        "b) Umelé dýchanie vykonávame cez jeho nos",
+        "c) Umelé dýchanie mu neposkytneme",
+        "d) Umelé dýchanie vykonávame pomocou Heimlychovho manévru"
+      ],
+      "correct_index": 1,
+      "explanation": "Ak úraz bráni otvoreniu úst, umelé dýchanie sa vykonáva metódou 'z úst do nosa'. Nosové dýchanie je účinnou alternatívou."
+    },
+    {
+      "id": 52,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ako zistíme, že vdych záchrancu nevniká do pľúc postihnutého?",
+      "options": [
+        "a) Hrudník postihnutého sa nedvíha",
+        "b) Tvár postihnutého je sivá",
+        "c) Prsty postihnutého sú bordovo červené",
+        "d) Zrenice sú rozšírené"
+      ],
+      "correct_index": 0,
+      "explanation": "Najspoľahlivejší priamy znak účinného vdychu je zdvihnutie hrudníka, ktoré signalizuje, že vzduch prešiel do pľúc."
+    },
+    {
+      "id": 53,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Čo urobíme (pred ďalším vdychovaním), keď vdych záchrancu nevniká do pľúc postihnutého?",
+      "options": [
+        "a) Aspoň 10 krát mu stlačíme hrudník",
+        "b) Zväčšíme záklon hlavy postihnutého",
+        "c) Zväčšíme silu vdychov",
+        "d) Skončíme s umelým dýchaním"
+      ],
+      "correct_index": 1,
+      "explanation": "Najčastejšou prekážkou pri vdychu je zapadnutý jazyk. Zväčšením záklonu hlavy sa dýchacie cesty uvoľnia."
+    },
+    {
+      "id": 54,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Aké ďalšie pomôcky poznáte pre poskytnutie umelého dýchania „z pľúc do pľúc\"?",
+      "options": [
+        "a) Umelá panna (Anča)",
+        "b) Dýchacie rúška",
+        "c) Defibrilačný prístroj",
+        "d) Kyslíkový prístroj"
+      ],
+      "correct_index": 1,
+      "explanation": "Dýchacie rúška (masky) slúžia ako bariéra na ochranu záchrancu pred priamym kontaktom, čím zvyšujú hygienu."
+    },
+    {
+      "id": 55,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ktoré sú oživovacie prístroje?",
+      "options": [
+        "a) Hasiaci prístroj",
+        "b) Dýchacia maska príp. defibrilačný prístroj",
+        "c) Dlaha na znehybnenie končatiny",
+        "d) Nosítka"
+      ],
+      "correct_index": 1,
+      "explanation": "Oživovacie (resuscitačné) prístroje sú tie, ktoré pomáhajú obnoviť dýchanie (ambuvak) a srdcovú činnosť (defibrilátor)."
+    },
+  
+    {
+      "id": 56,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Kedy sme nútení použiť pri umelom dýchaní metódu Silvera-Borscha?",
+      "options": [
+        "a) Pri veľmi poranených ústach postihnutého",
+        "b) Ak je viac záchrancov",
+        "c) Pri úraze vysokým napätím",
+        "d) Pri fibrilácii srdca"
+      ],
+      "correct_index": 0,
+      "explanation": "Metóda Silvera-Borscha (dýchanie z úst do nosa) sa používa, ak je priama resuscitácia z úst do úst nemožná kvôli poraneniam tváre/úst alebo kŕčovito zovretým ústam."
+    },
+    {
+      "id": 57,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "S ktorou činnosťou pri oživovaní postihnutého začneme skôr (postihnutý nedýcha a tep srdca sme nezistili)?",
+      "options": [
+        "a) Oživovanie začneme s nepriamou masážou srdca",
+        "b) Oživovanie začneme s umelým dýchaním",
+        "c) O poradí činností pri oživovaní rozhodne lekár",
+        "d) Poradie činností pri oživovaní nie je dôležité"
+      ],
+      "correct_index": 1,
+      "explanation": "V prípade úrazu elektrickým prúdom je často primárne zasiahnuté dýchacie centrum. Preto sa odporúča začať s 2 záchrannými vdychmi (okysličením) a potom prejsť na kompresie."
+    },
+    {
+      "id": 58,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Nepriama masáž srdca je účinná vtedy, keď pri každom zatlačení hrudníka postihnutého nahmatáme na krčnej tepne pulz. Aké sú iné prejavy účinnej nepriamej masáže srdca?",
+      "options": [
+        "a) Naširoko otvorené zrenice sa zužujú, zmena farby tváre do ružová",
+        "b) Otvorenie očí postihnutého a rýchle mrkanie",
+        "c) Hlasné vzdychy a kŕče tváre",
+        "d) Fibrilácia srdca"
+      ],
+      "correct_index": 0,
+      "explanation": "Zúženie zreníc (reakcia na svetlo) a zmena farby tváre sú pozitívne známky zlepšeného okysličovania mozgu."
+    },
+    {
+      "id": 59,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Čo je prioritou pri resuscitácii (KPR) dospelého po úraze elektrickým prúdom, ak nereaguje a nedýcha normálne?",
+      "options": [
+        "a) Prekordiálny úder päsťou do hrudníka",
+        "b) Volať 112/155 a okamžite začať stláčanie hrudníka (pomer 30:2)",
+        "c) Len umelé dýchanie bez stláčania hrudníka",
+        "d) Vyčkať na príchod lekára bez zásahu"
+      ],
+      "correct_index": 1,
+      "explanation": "Úder päsťou“ (prekordiálny úder) sa už dávno nepovažuje za štandardnú prvú pomoc. Dnes je základom okamžitá KPR v pomere 30 stlačení ku 2 vdychom a čo najrýchlejšie použitie AED (defibrilátora), ak je k dispozícii."
+    },
+    {
+      "id": 60,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Kedy záchranca nesmie stláčať hrudník postihnutého (pri nepriamej masáži srdca), keď robí oživovacie práce spolu s ďalším záchrancom?",
+      "options": [
+        "a) Pri klesaní hrudníka postihnutého",
+        "b) Pri napínaní hrudníka postihnutého (pri nádychu postihnutého)",
+        "c) Záchranca môže kedykoľvek stláčať hrudník postihnutého"
+      ],
+      "correct_index": 1,
+      "explanation": "Kompresia hrudníka sa musí prerušiť počas záchranného vdychu, aby vzduch mohol vniknúť do pľúc."
+    },
+    {
+      "id": 61,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ktorý je základný zákon v SR, ktorý ochraňuje každého občana SR?",
+      "options": [
+        "a) Zákonník práce",
+        "b) Ústava SR",
+        "c) Vyhláška 2002 Z.z.",
+        "d) Zákon č 264/1999 Z.z."
+      ],
+      "correct_index": 1,
+      "explanation": "Ústava SR je základný zákon, ktorý garantuje základné práva a slobody, vrátane práva na ochranu zdravia a bezpečnosti."
+    },
+    {
+      "id": 62,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ktorý zákon uvádza, že starostlivosť o bezpečnosť a ochranu zdravia pri práci je súčasťou plánovania a plnenia úloh?",
+      "options": [
+        "a) Vyhláška č-7 4196 Z.z.",
+        "b) Najmä zákon č. 124/2006 Z.z.",
+        "c) STN 33 2000-4-41",
+        "d) Európsky dohovor o ľudských právach"
+      ],
+      "correct_index": 1,
+      "explanation": "Zákon č. 124/2006 Z.z. o BOZP je kľúčový predpis v SR a definuje práva a povinnosti zamestnávateľa a zamestnancov."
+    },
+    {
+      "id": 63,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Kto v organizácii zodpovedá za bezpečnosť a ochranu zdravia pri práci (BOZP)?",
+      "options": [
+        "a) Vedúci na všetkých stupňoch riadenia",
+        "b) Riaditeľ organizácie",
+        "c) Pracovníci (napr. elektromontér)",
+        "d) Revízny technik v spolupráci s pracovníkmi technickej inšpekcie"
+      ],
+      "correct_index": 0,
+      "explanation": "Podľa Zákona č. 124/2006 Z.z. o BOZP zodpovedá za zabezpečenie BOZP zamestnávateľ prostredníctvom vedúcich zamestnancov na všetkých úrovniach."
+    },
+    {
+      "id": 64,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ktorý pracovný úraz musí zamestnávateľ registrovať (podľa zákona č. 124/2006 Z.z.)?",
+      "options": [
+        "a) Ak práceneschopnosť následkom prac, úrazu trvá viac ako 3 dni",
+        "b) Všetky pracovné úrazy",
+        "c) Ak nastala smrť následkom pracovného úrazu",
+        "d) Ak práceneschopnosť je dlhšia ako 1 deň"
+      ],
+      "correct_index": 0,
+      "explanation": "Registrovaný pracovný úraz je úraz, ktorý spôsobil smrť alebo práceneschopnosť zamestnanca trvajúcu viac ako tri dni."
+    },
+    {
+      "id": 65,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Musí zamestnanec hlásiť svojmu zamestnávateľovi vznik uvedených udalostí?",
+      "options": [
+        "a) Nie",
+        "b) Áno - vždy to musí hlásiť",
+        "c) Áno, ale len vtedy, ak sa úraz stal jemu",
+        "d) Áno, ale len vtedy, ak je to uvedené v kol.zmluve"
+      ],
+      "correct_index": 1,
+      "explanation": "Podľa Zákona č. 124/2006 Z.z. je zamestnanec povinný bezodkladne oznámiť zamestnávateľovi vznik úrazu alebo nebezpečnej udalosti."
+    },
+    {
+      "id": 66,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ktorý pracovný úraz sa nazýva „registrovaný pracovný úraz“ (podľa zákona č. 124/2006 Z.z.)?",
+      "options": [
+        "a) Ak Vznikol na pracovisku",
+        "b) Ak spôsobil práceneschopnosť dlhšiu ako 3 dni",
+        "c) Ak jeho následkom nastala smrť",
+        "d) Ak bolo zranených viac osôb"
+      ],
+      "correct_index": 1,
+      "explanation": "Registrovaný pracovný úraz je definovaný ako úraz, ktorý spôsobil smrť zamestnanca alebo práceneschopnosť trvajúcu viac ako tri kalendárne dni."
+    },
+    {
+      "id": 67,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Musí zamestnávateľ viesť aj evidenciu pracovných úrazov, ktoré nie sú registrovanými pracovnými úrazmi?",
+      "options": [
+        "a) Áno - musí evidovať údaje ako o registrovanom úraze",
+        "b) Nie",
+        "c) Záleží to na rozhodnutí zamestnávateľa",
+        "d) Záleží to na rozhodnutí IBP"
+      ],
+      "correct_index": 0,
+      "explanation": "Zamestnávateľ má povinnosť evidovať všetky pracovné úrazy, aj tie s práceneschopnosťou do 3 dní, pre účely prevencie."
+    },
+    {
+      "id": 68,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "O iných ako pracovných úrazoch a o nebezpečných udalostiach musí zamestnávateľ viesť evidenciu. Aké údaje musí zamestnávateľ v takejto evidencii uviesť?",
+      "options": [
+        "a) Údaje o príčine ich vzniku a o prijatých opatreniach",
+        "b) Nemusí nič evidovať",
+        "c) Záleží to na rozhodnutí zamestnávateľa",
+        "d) Záleží to na rozhodnutí IBP"
+      ],
+      "correct_index": 0,
+      "explanation": "Evidencia nebezpečných udalostí je kľúčová pre prevenciu. Zamestnávateľ musí zistiť príčinu, aby mohol prijať opatrenia."
+    },
+    {
+      "id": 69,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ako sa nazýva pracovný úraz (podľa Zákona č. 124/2006 Z.z.) následkom ktorého nastala smrť zamestnanca alebo ťažká ujma na zdraví alebo predpokladaná dĺžka liečby je najmenej 42 dní?",
+      "options": [
+        "a) Ťažký úraz",
+        "b) Závažný pracovný úraz",
+        "c) Hromadný úraz",
+        "d) Bežný pracovný úraz"
+      ],
+      "correct_index": 1,
+      "explanation": "Podľa Zákona č. 124/2006 Z.z. je závažný pracovný úraz ten, ktorého následkom je smrť, ťažká ujma alebo liečba nad 42 dní."
+    },
+    {
+      "id": 70,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Príčiny vzniku registrovaného pracovného úrazu musí zamestnávateľ zisťovať i za účasti postihnutého a za účasti zástupcu zamestnancov pre BoZP. Koho musí zamestnávateľ ešte prizvať k zisťovaniu príčin závažného pracovného úrazu?",
+      "options": [
+        "a) Revízneho technika",
+        "b) Autorizovaného bezpečnostného technika",
+        "c) Inšpektora práce",
+        "d) Pracovnú zdravotnú službu"
+      ],
+      "correct_index": 2,
+      "explanation": "Pri závažnom pracovnom úraze je zamestnávateľ povinný bezodkladne oznámiť udalosť Inšpektorátu práce, ktorý sa zúčastní vyšetrovania."
+    },
+    {
+      "id": 71,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Musí zamestnávateľ plniť povinnosti ako u registrovaných pracovných úrazoch aj pri chorobe z povolania a ohrození chorobou z povolania?",
+      "options": [
+        "a) Áno",
+        "b) Nie",
+        "c) Záleží to na rozhodnutí zamestnávateľa",
+        "d) Záleží to na rozhodnutí IBP"
+      ],
+      "correct_index": 0,
+      "explanation": "Zákon č. 124/2006 Z.z. ukladá zamestnávateľovi podobné povinnosti pri chorobách z povolania ako pri registrovaných úrazoch."
+    },
+    {
+      "id": 72,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Zamestnávateľ je povinný oznámiť vznik registrovaného pracovného úrazu zástupcovi zamestnancov, polícii, inšpektorátu práce. Do kedy uvedené oznámenia musí zamestnávateľ urobiť?",
+      "options": [
+        "a) Bezodkladne po obdŕžaní oznámenia o tomto úraze",
+        "b) Do 4 dní po obdŕžaní oznámenia o tomto úraze",
+        "c) Do 8 dní po obdŕžaní oznámenia o tomto úraze",
+        "d) Do 14 dní po obdŕžaní oznámenia o tomto úraze"
+      ],
+      "correct_index": 0,
+      "explanation": "Pri registrovanom pracovnom úraze je zamestnávateľ povinný oznámiť udalosť príslušným orgánom bezodkladne."
+    },
+    {
+      "id": 73,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Komu musí zamestnávateľ bezodkladne hlásiť: vznik alebo hrozbu vzniku závažnej priemyselnej havárie, chorobu z povolania a ohrozenie chorobou z povolania?",
+      "options": [
+        "a) Polícii",
+        "b) Štátnemu zdravotnému ústavu",
+        "c) Inšpektorátu práce",
+        "d) Pracovnej zdravotnej službe"
+      ],
+      "correct_index": 2,
+      "explanation": "Inšpektorát práce je ústredný orgán, ktorému sa hlásia závažné udalosti a choroby z povolania podľa Zákona 124/2006 Z.z."
+    },
+    {
+      "id": 74,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Do akej doby musí zamestnávateľ zaslať záznam o registrovanom pracovnom úraze na inšpektorát práce?",
+      "options": [
+        "a) Do 14 dni",
+        "b) Do 10 dni",
+        "c) Do 8 dni",
+        "d) Záznam nemusí nikde posielať"
+      ],
+      "correct_index": 2,
+      "explanation": "Zamestnávateľ je povinný zaslať „Záznam o registrovanom pracovnom úraze“ do ôsmich dní odo dňa, keď sa o úraze dozvedel."
+    },
+    {
+      "id": 75,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Komu okrem inšpektorátu práce musí zamestnávateľ zaslať záznam o registrovanom pracovnom úraze v prípade, keď zamestnanec pri úraze zomrel?",
+      "options": [
+        "a) Závodnému lekárovi",
+        "b) Bezpečnostnému technikovi",
+        "c) Pozostalým",
+        "d) Príslušnej matrike"
+      ],
+      "correct_index": 2,
+      "explanation": "V prípade smrteľného úrazu je zamestnávateľ povinný zaslať jedno vyhotovenie záznamu aj pozostalým zosnulého zamestnanca."
+    },
+    {
+      "id": 76,
+      "kategoria_tema": "Prvá pomoc pri úraze elektrickým prúdom a Registrácia pracovných úrazov",
+      "question": "Ako dlho musí zamestnávateľ uchovávať záznamy o registrovaných pracovných úrazoch a evidenciu súvisiacu s úrazmi a chorobami z povolania?",
+      "options": [
+        "a) 2 roky",
+        "b) 3 roky",
+        "c) 4 roky",
+        "d) 5 rokov"
+      ],
+      "correct_index": 3,
+      "explanation": "Záznamy o registrovaných pracovných úrazoch a súvisiaca dokumentácia sa musia uchovávať po dobu 5 rokov."
+    },
+    {
+      "id": 77,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Čo vyjadruje nasledovná definícia? Zostava vzájomne spolupracujúcich elektrických zariadení (EZ) skoordinovanými vlastnosťami, ktoré slúžia na plnenie jedného alebo niekoľkých cieľov.",
+      "options": [
+        "a) Elektrické zariadenie",
+        "b) Elektrická inštalácia",
+        "c) Elektrická prípojka"
+      ],
+      "correct_index": 1,
+      "explanation": "Definícia sa vzťahuje na Elektrickú inštaláciu, ktorá je súborom EZ inštalovaných na plnenie spoločného cieľa."
+    },
+    {
+      "id": 78,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Čo vyjadruje nasledovná definícia? Zariadenie, ktoré sa používa na výrobu, premenu, prenos, distribúciu alebo využitie elektrickej energie.",
+      "options": [
+        "a) Elektrické zariadenie",
+        "b) Elektrická inštalácia",
+        "c) Elektrická prípojka"
+      ],
+      "correct_index": 0,
+      "explanation": "Táto definícia zahŕňa akékoľvek jednotlivé zariadenie slúžiace na prácu s elektrickou energiou – Elektrické zariadenie (EZ)."
+    },
+    {
+      "id": 79,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Čo vyjadrujú nasledovné činnosti? Všetky úkony spojené s prevádzkou elektrickej inštalácie; spínanie, regulovanie, odčítavanie údajov z trvalo nainštalovaných prístrojov, výmena poistiek, výmena žiaroviek, prehliadka elektrického zariadenia bez jeho demontáže.",
+      "options": [
+        "a) Údržba elektrickej inštalácie",
+        "b) Práca na elektrickej inštalácii",
+        "c) Obsluha elektrickej inštalácie",
+        "d) Prehliadka elektrickej inštalácie"
+      ],
+      "correct_index": 2,
+      "explanation": "Tieto jednoduché úkony, ktoré nesúvisia so zmenou EZ, sú definované ako Obsluha elektrickej inštalácie."
+    },
+    {
+      "id": 80,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Čo vyjadrujú nasledovné činnosti? Montáž elektrických zariadení (EZ), údržba EZ, revízia EZ, zaistenie pracoviska, meranie elektrických veličín prenosným meracím prístrojom.",
+      "options": [
+        "a) Práca na elektrickej inštalácii",
+        "b) Prehliadka elektrickej inštalácie",
+        "c) Revízia elektrickej inštalácie",
+        "d) Obsluha elektrickej inštalácie"
+      ],
+      "correct_index": 0,
+      "explanation": "Montáž, údržba a revízia sú hlavné kategórie, ktoré spadajú pod širší pojem Práca na elektrickej inštalácii."
+    },
+    {
+      "id": 81,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Čo vyjadrujú nasledovné činnosti? Úkony, pri ktorých sa prehliadkou a meraním zisťuje, či elektrická inštalácia vyhovuje príslušným technickým predpisom a technickým normám v súvislosti s ochranou pred úrazom elektrickým prúdom a zamedzením poškodenia alebo zničenia zariadenia.",
+      "options": [
+        "a) Práca na elektrickej inštalácii",
+        "b) Prehliadka elektrickej inštalácie",
+        "c) Revízia elektrickej inštalácie",
+        "d) Obsluha elektrickej inštalácie"
+      ],
+      "correct_index": 2,
+      "explanation": "Zisťovanie súladu s normami pomocou prehliadky a merania je presná definícia Revízie elektrickej inštalácie."
+    },
+    {
+      "id": 82,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Ako sa nazýva priestor ako je uvedené ďalej? Vymedzený priestor na prácu na elektrickej inštalácii alebo jej v blízkosti.",
+      "options": [
+        "a) Dielňa",
+        "b) Pracovisko",
+        "c) Prevádzka"
+      ],
+      "correct_index": 1,
+      "explanation": "Vymedzený priestor, kde prebieha konkrétny úkon (práca), sa nazýva Pracovisko."
+    },
+    {
+      "id": 83,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Ako nazývame nasledovné predmety? Predmety, ktoré chránia pracovníka pred nebezpečnými účinkami elektriny, pred škodlivinami alebo pred iným ohrozením.",
+      "options": [
+        "a) Pracovné pomôcky",
+        "b) Ochranné pomôcky",
+        "c) Náradie",
+        "d) Nemajú špeciálne označenie"
+      ],
+      "correct_index": 1,
+      "explanation": "Predmety určené na ochranu zdravia (napr. rukavice, prilba) sa nazývajú Ochranné pomôcky (OOPP)."
+    },
+    {
+      "id": 84,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Ako nazývame nasledovné predmety? Predmety potrebné na prácu v elektrickej inštalácii alebo v jej blízkosti alebo na obsluhu nainštalovaných elektrických zariadení.",
+      "options": [
+        "a) Pracovné pomôcky",
+        "b) Ochranné pomôcky",
+        "c) Meracie prístroje",
+        "d) Nemajú špeciálne označenie"
+      ],
+      "correct_index": 0,
+      "explanation": "Predmety, ktoré sa používajú na vykonávanie práce (napr. skrutkovač, kliešte, rebrík), sú Pracovné pomôcky."
+    },
+    {
+      "id": 85,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Akú kvalifikáciu musí mať osoba zodpovedná za prevádzku elektrickej inštalácie?",
+      "options": [
+        "a) Takej osobe postačuje kvalifikácia: poučená osoba",
+        "b) Musí byť: osoba znalá s vyššou kvalifikáciou",
+        "c) Takej osobe postačuje kvalifikácia: osoba znalá",
+        "d) Musí to byť vedúci pracovník"
+      ],
+      "correct_index": 1,
+      "explanation": "Osoba zodpovedná za prevádzku riadi chod EZ a preto musí mať vyššiu riadiacu kvalifikáciu (§ 23 alebo § 24)."
+    },
+    {
+      "id": 86,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Akú kvalifikáciu musí mať zodpovedný vedúci práce ak ide o prácu pod dozorom?",
+      "options": [
+        "a) Postačuje: poučená osoba",
+        "b) Musí byť: osoba znalá s vyššou kvalifikáciou",
+        "c) Postačuje: osoba znalá",
+        "d) Musí to byť: vedúci pracovník"
+      ],
+      "correct_index": 2,
+      "explanation": "Pre vedenie práce pod dozorom postačuje kvalifikácia Elektrotechnik (§ 21), čo spadá pod „osoba znalá“."
+    },
+    {
+      "id": 87,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aká práca je definovaná takto: Práca, na ktorú sú dané iba najnevyhnutnejšie pokyny a pri ktorej za dodržiavanie bezpečnostných ustanovení zodpovedá pracovník, ktorý prácu vykonáva?",
+      "options": [
+        "a) Práca s dohľadom",
+        "b) Práca pod dozorom",
+        "c) Práca podľa pokynov",
+        "d) Samostatná práca"
+      ],
+      "correct_index": 3,
+      "explanation": "Definícia sa vzťahuje na Samostatnú prácu, kde kvalifikovaný pracovník nesie plnú zodpovednosť."
+    },
+    {
+      "id": 88,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aká práca je definovaná takto? Práca, ktorá sa vykonáva podľa podrobnejších pokynov: osoba, ktorá vykonáva dohľad na začiatku práce a v priebehu práce kontroluje, či sú dodržiavané bezpečnostné zásady, pričom za dodržiavanie bezpečnostných predpisov zodpovedá osoba vykonávajúca prácu.",
+      "options": [
+        "a) Práca s dohľadom",
+        "b) Práca pod dozorom",
+        "c) Práca podľa pokynov",
+        "d) Samostatná práca"
+      ],
+      "correct_index": 0,
+      "explanation": "Práca s dohľadom (Supervision) zahŕňa kontrolu na začiatku a v priebehu práce."
+    },
+    {
+      "id": 89,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aká práca je definovaná takto? Práca, ktorá sa vykonáva za trvalej prítomnosti osoby, ktorá je poverená dozorom a je zodpovedná za dodržiavanie bezpečnostných predpisov.",
+      "options": [
+        "a) Práca s dohľadom",
+        "b) Práca pod dozorom",
+        "c) Práca podľa pokynov",
+        "d) Nesamostatná práca"
+      ],
+      "correct_index": 1,
+      "explanation": "Práca pod dozorom (Close supervision) vyžaduje stálu prítomnosť dozornej osoby."
+    },
+    {
+      "id": 90,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Kto všetko musí podpísať záznam o školení zamestnancov, aby mohla byť táto činnosť preukázateľnou činnosťou?",
+      "options": [
+        "a) Školiteľ a školená osoba",
+        "b) Školený pracovník",
+        "c) Školená osoba a školiteľ",
+        "d) Vedúci školiacej organizácie"
+      ],
+      "correct_index": 2,
+      "explanation": "Pre preukázateľnosť musí byť školenie podpísané oboma stranami: školenou osobou aj školiteľom."
+    },
+    {
+      "id": 91,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aká práca je definovaná takto: Práca na elektrickej inštalácii, pri ktorej má pracovník v priestore ohrozenia časť tela a dotýka sa živých častí pod napätím predpísanými ochrannými a pracovnými prostriedkami?",
+      "options": [
+        "a) PPN na vzdialenosť (PPN - práca pod napätím)",
+        "b) PPN V dotyku",
+        "c) PPN na potenciáli",
+        "d) PPN s ochranou"
+      ],
+      "correct_index": 1,
+      "explanation": "Táto práca sa nazýva Práca pod napätím (PPN) v dotyku."
+    },
+    {
+      "id": 92,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aká práca je definovaná takto: Práca na elektrickej inštalácii, pri ktorej je pracovník mimo priestor ohrozenia a do tohoto nebezpečného priestoru vniká iba predpísanými pracovnými pomôckami, ktorými sa dotýka živých časti pod napätím, pričom používa predpísané ochranné pomôcky?",
+      "options": [
+        "a) PPN na vzdialenosť (PPN - práca pod napätím)",
+        "b) PPN V dotyku",
+        "c) PPN na potenciáli",
+        "d) PPN s ochranou"
+      ],
+      "correct_index": 0,
+      "explanation": "Pracovník je mimo priestoru ohrozenia a prácu vykonáva na vzdialenosť pomocou izolačných nástrojov."
+    },
+    {
+      "id": 93,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aká práca je definovaná takto: Práca na elektrickej inštalácii, pri ktorej je pracovník vodivo spojený s jedným krajným vodičom alebo s jedným pólom na ktorom pracuje?",
+      "options": [
+        "a) PPN na vzdialenosť (PPN - práca pod napätím)",
+        "b) PPN v dotyku",
+        "c) PPN na potenciáli",
+        "d) PPN s ochranou"
+      ],
+      "correct_index": 2,
+      "explanation": "Ide o Prácu pod napätím (PPN) na potenciáli, kde pracovník má rovnaký potenciál ako vodič."
+    },
+    {
+      "id": 94,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aký priestor je možné popísať takto: Miesta, kde sa môže zdržiavať pracovník, ktorých vzdialenosť od nekrytých živých častí a neživých vodivých časti s iným potenciálom menšia alebo rovná sa jej dovolenej vzdialenosti priblíženia pracovníka?",
+      "options": [
+        "a) Definícia popisuje bezpečné stanovisko pracovníka",
+        "b) Popisuje bezpečné pracovisko",
+        "c) Popisuje priestor ohrozenia pri PPN (PPN - práca pod napätím)",
+        "d) Popisuje stanovisko na potenciáli"
+      ],
+      "correct_index": 2,
+      "explanation": "Táto definícia vymedzuje priestor, do ktorého je nebezpečné vstúpiť bez špeciálnych pomôcok – Priestor ohrozenia."
+    },
+    {
+      "id": 95,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Do akej vzdialenosti v cm sa môže pracovník priblížiť k živým častiam pod napätím 10 kV (max. 12 kV) pri PPN na vzdialenosť?",
+      "options": [
+        "a) 30",
+        "b) 32",
+        "c) 34",
+        "d) 36"
+      ],
+      "correct_index": 1,
+      "explanation": "Podľa STN EN 50110-1 je minimálna dovolená vzdialenosť priblíženia pri PPN na vzdialenosť pre napätie do 12 kV stanovená na 32 cm."
+    },
+    {
+      "id": 96,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Do akej vzdialenosti v cm sa môže pracovník priblížiť k živým častiam pod napätím 22 kV (max 25 kV) pri PPN na vzdialenosť?",
+      "options": [
+        "a) 60",
+        "b) 50",
+        "c) 30",
+        "d) 40"
+      ],
+      "correct_index": 3,
+      "explanation": "Pre napätie do 25 kV (napr. 22 kV) je dovolená vzdialenosť priblíženia pri PPN na vzdialenosť 40 cm."
+    },
+    {
+      "id": 97,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Do akej vzdialenosti v cm sa môže pracovník priblížiť k živým častiam pod napätím 35 kV (max 38,5 kV) pri PPN na vzdialenosť?",
+      "options": [
+        "a) 50",
+        "b) 100",
+        "c) 150",
+        "d) 200"
+      ],
+      "correct_index": 0,
+      "explanation": "Pre napätie do 38,5 kV (napr. 35 kV) je dovolená vzdialenosť priblíženia pri PPN na vzdialenosť 50 cm."
+    },
+    {
+      "id": 98,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Do akej vzdialenosti v cm sa môže pracovník priblížiť k živým častiam pod napätím 110 kV (max. 123 kV) pri PPN na vzdialenosť?",
+      "options": [
+        "a) 70",
+        "b) 80",
+        "c) 90",
+        "d) 60"
+      ],
+      "correct_index": 2,
+      "explanation": "Pre napätie do 123 kV (napr. 110 kV) je dovolená vzdialenosť priblíženia pri PPN na vzdialenosť 90 cm."
+    },
+    {
+      "id": 99,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pri práci PPN na vzdialenosť musia dodržané určité vzdialenosti (VVN 220 kV)?",
+      "options": [
+        "a) 180 cm",
+        "b) 120 cm",
+        "c) 60 cm",
+        "d) 0"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre napätie do 245 kV (napr. 220 kV) je správna vzdialenosť 120 cm."
+    },
+    {
+      "id": 100,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pre prácu na PPN (PPN - práca pod napätím) musí byť písomne vypracovaný, prakticky overený a schválený súbor jednotlivých úkonov potrebných na vykonanie príslušnej práce PPN. Otázka: Ako sa volá takýto súbor úkonov?",
+      "options": [
+        "a) Príkaz B",
+        "b) Pracovný postup na PPN",
+        "c) Pokyn na vykonanie práce",
+        "d) Nie je špeciálne pomenovanie pre taký súbor úkonov"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre vykonávanie PPN je potrebný detailný Pracovný postup na PPN."
+    },
+    {
+      "id": 101,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pre vykonávanie práce PPN (PPN - práca pod napätím) nad 1 kV, musia byť urobené technickoorganizačné opatrenia na zaistenie bezpečnosti práce - nazývajú sa zvláštny režim práce (ZRP). Otázka: Čo patrí medzi ZRP?",
+      "options": [
+        "a) Odpojenie príslušnej časti inštalácie",
+        "b) Vyskratovanie a uzemnenie",
+        "c) Vyradenie automatík opätovného zapínania"
+      ],
+      "correct_index": 2,
+      "explanation": "ZRP zahŕňajú opatrenia ako vyradenie automatík opätovného zapínania, aby nedošlo k neočakávanému oživeniu vedenia."
+    },
+    {
+      "id": 102,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Ako pri práci na elektrických inštaláciách nazývame nasledovný stav: Stav, v ktorom zodpovedný vedúci práce zo svojho stanoviska nevidí zreteľne pracovníkov alebo zariadenia na ktorých sa pracuje?",
+      "options": [
+        "a) Znížená viditeľnosť",
+        "b) Súmrak",
+        "c) Tma",
+        "d) Hmla"
+      ],
+      "correct_index": 0,
+      "explanation": "Situácia, keď vedúci práce nevidí svojich podriadených, sa nazýva Znížená viditeľnosť."
+    },
+    {
+      "id": 103,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Musí sa pre každú elektrickú inštaláciu určiť osoba zodpovedná za jej prevádzku?",
+      "options": [
+        "a) Áno - musí sa vždy určiť",
+        "b) Nie - nemusí sa určiť",
+        "c) Áno - ale len pri inštaláciách nad 1000",
+        "d) Áno - ale len v objektoch triedy B"
+      ],
+      "correct_index": 0,
+      "explanation": "Podľa Vyhlášky 508/2009 Z.z. musí mať každá EZ v prevádzke určenú osobu zodpovednú za prevádzku."
+    },
+    {
+      "id": 104,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Môžu laici samostatne obsluhovať jednoduché zariadenia malého a nízkeho napätia (mn a nn)?",
+      "options": [
+        "a) Áno - bez obmedzenia",
+        "b) Áno - ak sú zariadenia nainštalované bezpečne",
+        "c) Nie, zariadenia nn sa nesmú vôbec obsluhovať",
+        "d) Záleží to od zamestnávateľa"
+      ],
+      "correct_index": 1,
+      "explanation": "Laici môžu obsluhovať jednoduché zariadenia, ak sú bezpečne inštalované a boli na to poučení."
+    },
+    {
+      "id": 105,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "V akej minimálnej vzdialenosti v cm od živých častí pod napätím môžu pracovať laici samostatne (skladanie sena), pri napätí živých častí do 1 kV?",
+      "options": [
+        "a) 100",
+        "b) 75",
+        "c) 125",
+        "d) 150"
+      ],
+      "correct_index": 0,
+      "explanation": "Pre laikov je stanovená bezpečná vzdialenosť od nekrytých živých častí do 1 kV na 100 cm."
+    },
+    {
+      "id": 106,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "V akej minimálnej vzdialenosti v cm od živých častí pod napätím môžu pracovať laici samostatne (skladanie sena, .. ), pri napätí živých častí nad 1 kV do 35 kV?",
+      "options": [
+        "a) 50",
+        "b) 100",
+        "c) 400",
+        "d) 200"
+      ],
+      "correct_index": 3,
+      "explanation": "Pre napätie od 1 kV do 35 kV je bezpečná vzdialenosť pre laikov 200 cm."
+    },
+    {
+      "id": 107,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "V akej minimálnej vzdialenosti od živých častí pod napätím môžu pracovať laici samostatne (skladanie sena,..), pri napätí živých častí nad 35 kV do 110 kV?",
+      "options": [
+        "a) 200 cm",
+        "b) 100 cm",
+        "c) 300 cm",
+        "d) 20 cm"
+      ],
+      "correct_index": 2,
+      "explanation": "Pre napätie od 35 kV do 110 kV je bezpečná vzdialenosť pre laikov 300 cm."
+    },
+    {
+      "id": 108,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "V akej minimálnej vzdialenosti od živých časti pod napätím môžu pracovať laici samostatne (skladanie sena.) pri napätí živých časti nad 110 kV do 220 kV?",
+      "options": [
+        "a) 200 cm",
+        "b) 100 cm",
+        "c) 300 cm",
+        "d) 400 cm"
+      ],
+      "correct_index": 3,
+      "explanation": "Pre napätie od 110 kV do 220 kV je bezpečná vzdialenosť pre laikov 400 cm."
+    },
+    {
+      "id": 109,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Poučené osoby môžu samostatne obsluhovať jednoduché zariadenia elektrických inštalácií všetkých napätí. Otázka: Kde a ako môžu ešte poučené osoby pracovať?",
+      "options": [
+        "a) Na elektrických inštaláciách nn bez napätia",
+        "b) Na elektrických inštaláciách pod napätím",
+        "c) S dohľadom v blízkosti živých častí nn (ďalej ako 20 cm)",
+        "d) Samostatne v blízkosti živých častí nn (ďalej ako 20 cm)"
+      ],
+      "correct_index": 2,
+      "explanation": "Poučené osoby (§ 20) môžu pracovať v blízkosti NN (nad 20 cm) len s dohľadom."
+    },
+    {
+      "id": 110,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Môžu poučené osoby pracovať na elektrických inštaláciách vn a wn?",
+      "options": [
+        "a) Áno, ale len na odpojených inštaláciách a minimálne s dohľadom",
+        "b) Áno",
+        "c) Nie, v žiadnom prípade nesmú",
+        "d) Áno, ale len do 6 kV"
+      ],
+      "correct_index": 0,
+      "explanation": "Poučené osoby môžu na VN/VVN pracovať len ak sú odpojené a pod dohľadom."
+    },
+ 
+    {
+      "id": 111,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Poučené osoby môžu pracovať pod dozorom i v blízkosti vn a wn pod napätím. Otázka: Do akej vzdialenosti sa pri práci môžu priblížiť (telom alebo predmetmi) k zariadeniam pod napätím do 1 kV (max. 1,2 kV)?",
+      "options": [
+        "a) Vnútorná inštalácia: 35 cm",
+        "b) Vonkajšia inštalácia: 40 cm",
+        "c) Do 25 cm",
+        "d) Do 20 cm"
+      ],
+      "correct_index": 3,
+      "explanation": "Pre obsluhu/prácu poučenými osobami je v blízkosti NN (do 1,2 kV) dovolená vzdialenosť do 20 cm od živých častí."
+    },
+    {
+      "id": 112,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Poučené osoby môžu pracovať dozorom i v blízkosti vn a wn zariadení, ktoré sú pod napätím. Otázka: Do akej vzdialenosti sa pri práci môžu osoby priblížiť (telom alebo predmetmi) k zariadeniam pod napätím do 10 kV (max. 12 kV)?",
+      "options": [
+        "a) Do 35 cm",
+        "b) Vnútorná inštalácia: 45 cm",
+        "c) Vonkajšia inštalácia: 50 cm",
+        "d) Do 20 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre VN do 12 kV je maximálna vzdialenosť priblíženia pri práci pod dozorom (vnútorná inštalácia) 45 cm."
+    },
+    {
+      "id": 113,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Môžu poučené osoby pracovať na elektrických inštaláciách vn a wn pod napätím?",
+      "options": [
+        "a) Nie, nesmú pracovať pod napätím",
+        "b) Áno, ale len pod dozorom",
+        "c) Áno, ale len s dohľadom alebo pod dozorom",
+        "d) Stanoví to zamestnávateľ"
+      ],
+      "correct_index": 0,
+      "explanation": "Poučené osoby nesmú pracovať na živých častiach pod napätím (PPN). Môžu len vykonávať prácu v blízkosti pod dozorom, alebo na odpojených EZ s dohľadom."
+    },
+    {
+      "id": 114,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Kedy môžu poučené osoby merať skúšobným zariadením?",
+      "options": [
+        "a) Pri informatívnych skúškach výrobkov",
+        "b) Kedykoľvek, ale len s dohľadom alebo pod dozorom",
+        "c) Nesmú merať skúšobným zariadením"
+      ],
+      "correct_index": 2,
+      "explanation": "Poučené osoby (§ 20) nesmú merať skúšobnými zariadeniami, pretože to už patrí do kategórie práce, ktorá vyžaduje kvalifikáciu aspoň elektrotechnik (§ 21)."
+    },
+    {
+      "id": 115,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Znalé osoby môžu samostatne obsluhovať zariadenia elektrickej inštalácie. Otázka: Môžu znalé osoby pracovať na elektrických inštaláciách nn sami?",
+      "options": [
+        "a) Nie, v žiadnom prípade nemôžu",
+        "b) Na častiach bez napätia môžu pracovať",
+        "c) Môžu (v blízkosti i na inštaláciách pod napätím)",
+        "d) Rozhodne o tom vedúci pracovnej skupiny"
+      ],
+      "correct_index": 2,
+      "explanation": "Znalé osoby (elektrotechnici § 21 a vyššie) sú kvalifikované na samostatnú prácu a môžu vykonávať aj PPN, ak na to majú príslušné oprávnenie a pracovný postup."
+    },
+    {
+      "id": 116,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Znalé osoby môžu pracovať na inštaláciách vn a wn bez napätia. Otázka: Môžu znalé osoby pracovať v blízkosti inštalácií vn a wn, ktoré sú pod napätím?",
+      "options": [
+        "a) Áno, ale minimálne s dohľadom",
+        "b) Áno, môžu pracovať samostatne",
+        "c) Nie"
+      ],
+      "correct_index": 0,
+      "explanation": "Znalé osoby (§ 21, § 22) môžu pracovať v blízkosti živých častí VN/VVN, ktoré sú pod napätím, ale iba za predpokladu, že je im určený minimálne dohľad (supervision), pokiaľ nemajú vyššiu kvalifikáciu."
+    },
+    {
+      "id": 117,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Znalé osoby môžu pracovať na inštaláciách vn a wn bez napätia. Otázka: Môžu znalé osoby pracovať na inštaláciách vn a wn, ktoré sú pod napätím?",
+      "options": [
+        "a) Áno, ale s dohľadom",
+        "b) Áno, môžu pracovať samostatne",
+        "c) Nie",
+        "d) Áno, ale len pod dozorom"
+      ],
+      "correct_index": 3,
+      "explanation": "Práca pod napätím (PPN) na VN/VVN je pre znalé osoby (§ 21) povolená, ale len v režime pod dozorom (Close supervision) osôb s vyššou kvalifikáciou (§ 23, § 24)."
+    },
+    {
+      "id": 118,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aké činnosti na elektrických zariadeniach môžu vykonávať znalé osoby s vyššou kvalifikáciou?",
+      "options": [
+        "a) Akúkoľvek obsluhu a prácu na elektrických inštaláciách",
+        "b) Obsluhu a prácu na el. inštaláciách okrem zakázaných prác",
+        "c) Vždy musia pracovať minimálne s dohľadom"
+      ],
+      "correct_index": 1,
+      "explanation": "Osoby s vyššou kvalifikáciou (Vedúci elektrotechnik, Revízny technik) môžu vykonávať všetky práce a obsluhu EZ, s výnimkou prác, ktoré sú všeobecne zakázané (napr. PPN za búrky)."
+    },
+    {
+      "id": 119,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Ako sa z pohľadu kvalifikácie (len v školských laboratóriách) posudzujú študenti vysokých elektrotechnických škôl, ak zložili skúšku zo znalosti STN 34 3100 a pridružených technických predpisov a noriem?",
+      "options": [
+        "a) Osoby poučené",
+        "b) Osoby znalé pre prácu v školských laboratóriách",
+        "c) Elektrotechnik - § 21",
+        "d) Samostatný elektrotechnik - § 22"
+      ],
+      "correct_index": 1,
+      "explanation": "Špeciálny režim pre študentov (definovaný v predpisoch) ich kvalifikuje ako osoby znalé pre prácu v školských laboratóriách, čo im umožňuje obmedzenú prácu pod dozorom vyučujúceho."
+    },
+    {
+      "id": 120,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aby bola zaistená bezpečnosť študentov v školských laboratóriách - koľko študentov maximálne môže pripadať v laboratóriách na jedného vyučujúceho?",
+      "options": [
+        "a) 10",
+        "b) 5",
+        "c) 12",
+        "d) 30"
+      ],
+      "correct_index": 2,
+      "explanation": "Predpisy obvykle stanovujú, že na jedného vyučujúceho (ktorý je dozornou osobou) môže pripadať maximálne 12 študentov."
+    },
+    {
+      "id": 121,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Bezpečnostné oznamy môžu byť vo forme bezpečnostných značiek, tabuliek a nápisov s bezpečnostnými farbami. Otázka: Môžu sa bezpečnostné značky dodatočne vešať a pripevňovať na živé časti?",
+      "options": [
+        "a) Áno - ak sú z izolačného materiálu",
+        "b) Áno - bez obmedzenia",
+        "c) Nie",
+        "d) Áno - so súhlasom zodpovednej osoby"
+      ],
+      "correct_index": 2,
+      "explanation": "Bezpečnostné značky a tabuľky sa nesmú dodatočne pripevňovať na živé časti, bez ohľadu na použitý materiál."
+    },
+    {
+      "id": 122,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Ochrannými pomôckami sú i ochranné izolačné rukavice, izolačné koberce, izolačné mostíky, izolačné plošiny, izolačné galoše alebo topánky, ochranné kukly, ochranné izolačné prilby, izolačné obleky, ochranné okuliare, zábrany, ochranné pásy, atď. Otázka: Čo nepatri medzi ochranné pomôcky?",
+      "options": [
+        "a) Skratovacie a uzemňovacie zariadenie",
+        "b) Skúšačky napätia",
+        "c) Vybíjacie zariadenia",
+        "d) Záchranné háky"
+      ],
+      "correct_index": 1,
+      "explanation": "Skúšačky napätia sú meracie (pracovné) pomôcky, nie ochranné pomôcky."
+    },
+    {
+      "id": 123,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aké ochranné pomôcky sa používajú pri práci pod napätím na potenciáli wn a zvn?",
+      "options": [
+        "a) Ochranné pomôcky z izolačného materiálu",
+        "b) Vodivé ochranné pomôcky (napríklad vodivé oblečenie)",
+        "c) Nehorľavé nevodivé pomôcky"
+      ],
+      "correct_index": 1,
+      "explanation": "Pri PPN na potenciáli je pracovník pripojený na vysoké napätie, a preto musí byť chránený vodivými ochrannými pomôckami (napr. vodivý oblek), ktoré ho držia na rovnakom potenciáli ako vodič."
+    },
+    {
+      "id": 124,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Príkaz B sa vždy musí vydať na práce na elektrických inštaláciách vn, wn a zvn a v ich blízkosti. Otázka: Musí sa vydať príkaz B na práce na vedeniach mn alebo nn ak sú v súbehu alebo sa križujú s vedeniami vn?",
+      "options": [
+        "a) Nie",
+        "b) Áno",
+        "c) Podľa stanoviska Technickej inšpekcie",
+        "d) Podľa stanoviska Inšpektorátu práce"
+      ],
+      "correct_index": 1,
+      "explanation": "Ak sa práca na NN (nn/mn) vykonáva v blízkosti VN/VVN (súbeh, križovanie), musí sa pre zvýšené nebezpečenstvo vydať Príkaz B."
+    },
+    {
+      "id": 125,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Príkaz B sa vždy musí vydať na práce na elektrických inštaláciách vn, vvn a zvn a v ich blízkosti. Otázka: Musí sa vydať príkaz B na práce na elektrických inštaláciách mn alebo nn ak sú v spoločných priestoroch s inštaláciami vn?",
+      "options": [
+        "a) Áno",
+        "b) Nie"
+      ],
+      "correct_index": 0,
+      "explanation": "Áno, ak sa nachádzajú v spoločných priestoroch (napr. rozvodňa), je nutné vydať Príkaz B."
+    },
+    {
+      "id": 126,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Príkaz B alebo B-PPN vydáva a podpisuje osoba s vyššou kvalifikáciou zodpovedná za prevádzku príslušnej elektrickej inštalácie vn, wn alebo zvn. Otázka: Na aký najdlhší čas sa vystavuje príkaz B?",
+      "options": [
+        "a) 36 hodín",
+        "b) 1 týždeň",
+        "c) 24 hodín",
+        "d) 48 hodín"
+      ],
+      "correct_index": 2,
+      "explanation": "Štandardne sa Príkaz B vystavuje na 24 hodín."
+    },
+    {
+      "id": 127,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Príkaz B alebo B-PPN vydáva a podpisuje osoba s vyššou kvalifikáciou zodpovedná za prevádzku príslušnej elektrickej inštalácie vn, wn alebo zvn. Otázka: Môže osoba určená vydávaním príkazov B určiť na vydávanie iné osoby ak spĺňajú predpísanú kvalifikáciu?",
+      "options": [
+        "a) Áno",
+        "b) Nie"
+      ],
+      "correct_index": 0,
+      "explanation": "Osoba zodpovedná za prevádzku môže delegovať právomoc vydávať Príkaz B na iné osoby s predpísanou kvalifikáciou, spravidla Vedúci elektrotechnik (§ 23)."
+    },
+    {
+      "id": 128,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Na koho sa vystavuje príkaz B alebo B-PPN ak sa nejedná o pracovníkov tej osoby, ktorá vystavuje príkaz B?",
+      "options": [
+        "a) Na vedúceho práce",
+        "b) Na osobu zodpovednú za prevádzku príslušnej inštalácie",
+        "c) Na revíznego technika"
+      ],
+      "correct_index": 0,
+      "explanation": "Príkaz B sa vždy vystavuje na osobu, ktorá bude zodpovedná za výkon práce a bezpečnosť pracovnej skupiny, t.j. na Zodpovedného vedúceho práce."
+    },
+    {
+      "id": 129,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Príkaz B sa vydáva najdlhšie na 24 hodín, sú však dlhotrvajúce práce, keď elektrická inštalácia zostane trvalo odpojená a zaistená a zodpovedný vedúci práce sa nemení. Otázka: Na akú dobu sa pri takýchto dlhotrvajúcich prácach môže vydať príkaz B?",
+      "options": [
+        "a) Max na 48 hodín",
+        "b) Max na 36 hodín",
+        "c) Max na 1 týždeň",
+        "d) Vždy max na 12 hodín"
+      ],
+      "correct_index": 2,
+      "explanation": "Pre dlhotrvajúce, trvalo zaistené práce, kde sa nemení vedúci, môže byť doba platnosti predĺžená až na 1 týždeň."
+    },
+    {
+      "id": 130,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Na koľko pracovísk sa môže vydať príkaz B?",
+      "options": [
+        "a) Len na 1 pracovisko a 1 pracovnú skupinu",
+        "b) Max na 2 pracoviská",
+        "c) Max na 3 pracoviská",
+        "d) Max na 4 pracoviská"
+      ],
+      "correct_index": 0,
+      "explanation": "Príkaz B sa vystavuje zásadne na jednu pracovnú skupinu a jedno pracovisko."
+    },
+    {
+      "id": 131,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Na elektrickej inštalácii môže pracovať viac pracovných skupín na niekoľkých pracoviskách. Pre každú pracovnú skupinu sú vydané samostatné príkazy B. Otázka: Kde sa v takomto prípade evidujú vydané príkazy B pre práce na príslušnej elektrickej inštalácii?",
+      "options": [
+        "a) U revízneho technika",
+        "b) Na Inšpektoráte práce",
+        "c) Na jednom mieste u osoby vydávajúcej príkazy B",
+        "d) U Vedúcich pracovných skupín"
+      ],
+      "correct_index": 2,
+      "explanation": "Všetky vydané príkazy B pre danú inštaláciu (oblasť) sa musia evidovať na jednom mieste, zvyčajne u osoby, ktorá má právomoc príkazy B vydávať."
+    },
+    {
+      "id": 132,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "V niektorých prípadoch musí osoba, ktorá je určená na vydávanie príkazov B, na príslušnej inštalácii pracovať sama. Otázka: Musí táto osoba sama na seba vypísať príkaz B?",
+      "options": [
+        "a) Áno",
+        "b) Nie",
+        "c) Vypíše príkaz B na inú osobu"
+      ],
+      "correct_index": 1,
+      "explanation": "Ak zodpovedný vedúci práce pracuje sám, nemusí vystavovať Príkaz B sám na seba."
+    },
+    {
+      "id": 133,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Príkaz B alebo B-PPN sa môže odovzdať osobne, poštou alebo inou elektronickou textovou komunikáciou. Otázka: Môže sa príkaz B oznámiť telefonicky alebo audiofonicky?",
+      "options": [
+        "a) Nie",
+        "b) Áno",
+        "c) Áno, ale len pevnou telefónnou linkou",
+        "d) Áno, ale len na frekvencii 144 MHz"
+      ],
+      "correct_index": 0,
+      "explanation": "Príkaz B musí byť písomný (vrátane elektronickej textovej komunikácie), aby bol preukázateľný. Oznámenie telefonicky/audiofonicky nie je povolené."
+    },
+    {
+      "id": 134,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Príkaz B sa nemusí vydať v prípadoch ak je nebezpečie oddialenia potrebných úkonov pri ohrození ľudského života alebo pri hrozbe vzniku veľkých škôd. Otázka: Musí sa príkaz B vydať na práce na el. inštaláciách vo výstavbe, ktoré ešte neboli pripojenie na napätie a nie sú blízko iných el. inštalácii?",
+      "options": [
+        "a) Áno - musí sa vydať príkaz B",
+        "b) Nie - nemusí sa vydať príkaz B",
+        "c) Áno, ak sa jedná o výstavbu rozvodov vn a zvn",
+        "d) Rozhodne o tom majiteľ objektu"
+      ],
+      "correct_index": 1,
+      "explanation": "Ak inštalácia nie je pripojená na napätie a nehrozí nebezpečenstvo z okolitých inštalácií, Príkaz B nie je potrebný."
+    },
+    {
+      "id": 135,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "PPN sa dovoľuje iba vtedy, ak sú el. inštalácie prehľadné, jednotlivé časti sú prístupné, ak sú pri práci dodržané všetky bezpečnostné opatrenia, používané sú predpísané pracovné a ochranné pomôcky a práca sa vykonáva podľa schváleného postupu. Otázka: Musí sa na práce na takýchto inštaláciách vn a wn (bez nebezpečenstva úrazu el. prúdom) vydávať príkaz B?",
+      "options": [
+        "a) Nie",
+        "b) Áno"
+      ],
+      "correct_index": 1,
+      "explanation": "Áno, Príkaz B sa musí vydať na práce na VN/VVN (vn/wn) vždy, bez ohľadu na to, či sa jedná o PPN alebo prácu na EZ bez napätia."
+    },
+    {
+      "id": 136,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Na práce, ktoré sa často opakujú, sú vydané presné miestne pracovné bezpečnostné predpisy, ktoré nahrádzajú príkaz B. Otázka: Ako často sa kontroluje skúškami znalosť takýchto bezpečnostných predpisov?",
+      "options": [
+        "a) Vždy pred začatím práce",
+        "b) Aktualizačné školenia raz za 5 rokov",
+        "c) Aspoň raz za 3 roky",
+        "d) Aspoň raz za 7 rokov"
+      ],
+      "correct_index": 2,
+      "explanation": "Znalosť predpisov sa kontroluje periodicky, obvykle v rámci pravidelného školenia, najmenej raz za 3 roky."
+    },
+    {
+      "id": 137,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Ako dlho sa musia zachovať (uschovať) originály a kópie i s prílohami vydaných príkazov B a B-PPN (u pracovníka zodpovedného za prevádzku príslušnej elektrickej inštalácie)?",
+      "options": [
+        "a) Najmenej 1 rok",
+        "b) Najmenej 2 roky",
+        "c) Najmenej 3 roky",
+        "d) Najmenej 5 rokov"
+      ],
+      "correct_index": 1,
+      "explanation": "Dokumentácia (vrátane Príkazu B) sa musí uschovávať najmenej 2 roky."
+    },
+    {
+      "id": 138,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aký nápis musí obsahovať príkaz B-PPN?",
+      "options": [
+        "a) Červený nápis „Nezapínať - na zariadení sa pracuje\"",
+        "b) Červený nápis „Pozor, práca pod napätím\"",
+        "c) Žiaden nápis, okrem nadpisu „Príkaz BPPN\""
+      ],
+      "correct_index": 1,
+      "explanation": "Príkaz B-PPN (Práca pod napätím) musí byť kvôli jednoznačnej identifikácii vybavený výrazným červeným nápisom „Pozor, práca pod napätím“."
+    },
+    {
+      "id": 139,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Medzi činnosti zaistenia pracoviska patrí: odpojenie elektrickej inštalácie zo všetkých smerov, umiestnenie značiek, uzamknutie ovládacích zariadení.... Otázka: Čo sa musí urobiť, ak sa bude pracovať na el. inštalácii nn istenej tavnými poistkami?",
+      "options": [
+        "a) Tavné vložky a hlavice sa musia vybrať a bezpečne uschovať",
+        "b) Vyvesiť tabuľku s nápisom na zariadení sa pracuje „Nezapínať\"",
+        "c) Musia sa vybrať tavné vložky"
+      ],
+      "correct_index": 0,
+      "explanation": "Pri práci na istenej NN inštalácii je nutné nielen vybrať tavné vložky, ale aj hlavice (objímky) a bezpečne ich uschovať, aby sa zabránilo ich neoprávnenému vloženiu."
+    },
+    {
+      "id": 140,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pri zaistení pracoviska sa nesmie zabúdať na možnosť spojenia s napätím cez zhášacie tlmivky, meracie transformátory, kondenzátory a tlmivky, a pod. Otázka: Je možné nebezpečné dotykové napätie priviesť i cez meracie prístroje?",
+      "options": [
+        "a) Nie, takáto možnosť je vylúčená",
+        "b) Áno"
+      ],
+      "correct_index": 1,
+      "explanation": "Áno, meracie prístroje a transformátory (napr. napäťové transformátory) môžu byť zdrojom napätia a je nutné ich pri zaistení pracoviska brať do úvahy."
+    },
+    {
+      "id": 141,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Je potrebné po odpojení, pri zaistení pracoviska, odstrániť nebezpečný náboj napríklad z kondenzátorov?",
+      "options": [
+        "a) Áno",
+        "b) Nie"
+      ],
+      "correct_index": 0,
+      "explanation": "Áno, nabité kapacity a kondenzátory musia byť vždy pred začatím práce vybité, aby sa predišlo úrazu alebo poškodeniu."
+    },
+    {
+      "id": 142,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pri zaisťovaní pracoviska sa musí bezpečne zistiť beznapäťový stav. Otázka: Môžu sa pracovníci po odskúšaní beznapäťového stavu približovať k odpojeným častiam a dotýkať sa týchto časti (pred pripojením skratovacej súpravy)?",
+      "options": [
+        "a) Nie",
+        "b) Áno"
+      ],
+      "correct_index": 0,
+      "explanation": "Nie, aj po zistení beznapäťového stavu platí, že sa nesmú dotýkať vypnutých častí, kým nie sú uzemnené a skratované (4. zlaté pravidlo)."
+    },
+    {
+      "id": 143,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Kedy sa môžu montovať skratovacie súpravy pri zaisťovaní pracoviska?",
+      "options": [
+        "a) Po obdŕžaní príkazu B",
+        "b) Až po vypnutí vedenia zo všetkých strán",
+        "c) Po príchode pracovníkov na pracovisko",
+        "d) Až na pokyn revízneho technika"
+      ],
+      "correct_index": 1,
+      "explanation": "Skratovacia súprava sa montuje až po splnení prvých troch 'zlatých pravidiel': Odpojenie, Zaistenie, Overenie beznapäťového stavu."
+    },
+    {
+      "id": 144,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Skratovanie zariadenia po odskúšaní beznapäťového stavu pri zaistení pracoviska, sa musia spojiť so všetkými vodičmi elektrickej inštalácie a so zemou. Otázka: Ktorá činnosť sa vykoná ako prvá?",
+      "options": [
+        "a) Na poradí nezáleží",
+        "b) Najprv sa spoja so zemou",
+        "c) Najprv sa spoja s vodičmi vypnutej el. inštalácie"
+      ],
+      "correct_index": 1,
+      "explanation": "Pri uzemnení a skratovaní sa musí najprv uzemniť (pripojiť skratovacia súprava k zemi) a až potom sa skracuje k vodičom."
+    },
+    {
+      "id": 145,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pri el. inštaláciách mn a nn pri zaistení pracoviska sa vodiče nemusia spájať so zemou a skratovať ak je vypnutý stav bezpečne zaistený. Otázka: Aký nápis (na doplnkovom štítku) sa musí umiestniť pri príslušných poistkách?",
+      "options": [
+        "a) Pozor, pod napätím",
+        "b) Pozor, na zariadení sa pracuje",
+        "c) Žiadna značka sa nemusí umiestniť"
+      ],
+      "correct_index": 1,
+      "explanation": "Pri zaistení pracoviska sa musia umiestniť bezpečnostné tabuľky/štítky, ktoré upozorňujú na prebiehajúcu prácu: „Pozor, na zariadení sa pracuje“."
+    },
+    {
+      "id": 146,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pri zaistení pracoviska vonkajších vedení mn a nn sa musia na pracovisku spojiť vodiče so zemou a navzájom. Otázka: Musí byť takéto spojenie urobené aj vtedy, keď je beznapäťový stav bezpečne zaistený?",
+      "options": [
+        "a) Áno",
+        "b) Nie",
+        "c) Rozhodne o tom revízny technik",
+        "d) Rozhodne o tom vedúci prevádzky"
+      ],
+      "correct_index": 0,
+      "explanation": "Áno, vonkajšie vedenia NN musia byť vždy na pracovisku uzemnené a skratované, najmä kvôli nebezpečenstvu indukcie a atmosférického prepätia."
+    },
+    {
+      "id": 147,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Predpokladajme, že oznamovacie vedenia mn a nn nie sú na spoločných podperách so silnoprúdovým vedením nn a nie sú ohrozené vplyvmi z vedení Otázka: Musia sa (na zaistenom pracovisku) tieto oznamovacie vedenia spájať navzájom a so zemou?",
+      "options": [
+        "a) Nie",
+        "b) Áno",
+        "c) Rozhodne o tom revízny technik",
+        "d) Rozhodne o tom vedúci prevádzky"
+      ],
+      "correct_index": 0,
+      "explanation": "Ak nehrozí nebezpečenstvo od iných (silnoprúdových) inštalácií, oznamovacie vedenia nemusia byť spájané navzájom a so zemou."
+    },
+    {
+      "id": 148,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aký nápis (na zaistenom pracovisku) musí byť na doplnkovom štítku?",
+      "options": [
+        "a) Len tu pracuj",
+        "b) Pozor, práca pod napätím",
+        "c) Pozor, na zariadení sa pracuje",
+        "d) Nemusí tam byť nápis"
+      ],
+      "correct_index": 2,
+      "explanation": "Musí byť umiestnený nápis upozorňujúci na prebiehajúcu prácu: „Pozor, na zariadení sa pracuje“."
+    },
+    {
+      "id": 149,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aby pracujúci nemohli omylom vstúpiť do miest so živými časťami, musia sa urobiť opatrenia, napríklad: ohradenie, vyznačenie cesty na pracovisko, prelepenie zámkov kobiek, zamknutie nezameniteľným kľúčom a pod. Otázka: Patrí k takýmto opatreniam aj umiestnenie bezpečnostných značiek?",
+      "options": [
+        "a) Áno",
+        "b) Nie"
+      ],
+      "correct_index": 0,
+      "explanation": "Áno, bezpečnostné značky sú kľúčovým doplnkovým opatrením na zaistenie pracoviska a zabránenie vstupu do nebezpečného priestoru."
+    },
+    {
+      "id": 150,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Žeriavy v izolovanej sústave nn obsluhujú poučené osoby. Predpokladajme, že na takomto žeriave sa vykonávajú jednoduché práce (čistenie, výmena kontaktov, hrebeňov a pod.). Otázka: Pokladá sa pri takýchto prácach za zaistenie pracoviska odpojenie žeriava v dvoch miestach (napr. vypínač a poistky)?",
+      "options": [
+        "a) Nie",
+        "b) Áno",
+        "c) Áno, ale len pri žeriavoch do 100 t",
+        "d) Áno, ale len pri žeriavoch do 500 t"
+      ],
+      "correct_index": 1,
+      "explanation": "Áno, na zaistenie pracoviska žeriava sa za dostatočné považuje dvojnásobné odpojenie od napájania."
+    },
+    {
+      "id": 151,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Po zaistení pracoviska skontroluje vedúci zodpovedný za zaistenie pracoviska spolu s vedúcim práce, či sú urobené všetky bezpečnostné opatrenia a až potom dovolí pracovnej skupine vstup na pracovisko. Otázka: Ako zaisťujúca osoba presvedči pracovnú skupinu o beznapäťovom stave?",
+      "options": [
+        "a) Podpisom príslušného hlásenia",
+        "b) Zápisom do príkazu B",
+        "c) Priamym dotykom so zaistenou časťou",
+        "d) Vydaním príkazu na začatie práce"
+      ],
+      "correct_index": 2,
+      "explanation": "Najpreukázateľnejším dôkazom (po uzemnení a skratovaní) je priamy dotyk so zaistenou časťou."
+    },
+    {
+      "id": 152,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Je dovolené vopred na začatie práce vydávať dovolenie podľa príkazu B?",
+      "options": [
+        "a) Nie",
+        "b) Áno",
+        "c) Áno, ale len na prácu cez deň",
+        "d) Je to dovolené po konzultácii s Inšpektorátom práce"
+      ],
+      "correct_index": 0,
+      "explanation": "Dovolenie na začatie práce sa udeľuje až po riadnom zaistení pracoviska a overení všetkých podmienok. Vopred to nie je dovolené."
+    },
+    {
+      "id": 153,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Kto preberá dozor nad bezpečnosťou pracovníkov po ich vstupe na pracovisko (podľa príkazu B)?",
+      "options": [
+        "a) Na takomto pracovisku sa nepracuje pod dozorom",
+        "b) Zodpovedný vedúci práce (ak nie je určený iný pracovník)",
+        "c) Revízny technik",
+        "d) Elektrotechnik s odbornou spôsobilosťou podľa § 23"
+      ],
+      "correct_index": 1,
+      "explanation": "Hlavnú zodpovednosť nesie Zodpovedný vedúci práce (uvedený v Príkaze B), pokiaľ nie je určená iná dozorná osoba."
+    },
+    {
+      "id": 154,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Aké práce môžu vykonávať pracujúci pri práci podľa príkazu B?",
+      "options": [
+        "a) Podľa ich odbornej spôsobilosti",
+        "b) Len tie, ktoré im nariadil zodpovedný vedúci práce",
+        "c) Práce podľa projektu",
+        "d) Práce podľa vlastného uváženia"
+      ],
+      "correct_index": 1,
+      "explanation": "Pracovníci môžu vykonávať len tie úkony, ktoré sú nariadené a schválené Príkazom B."
+    },
+    {
+      "id": 155,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Ak pracovník dostane príkaz odporujúci bezpečnostným normám (pri práci podľa príkazu B), musí tento príkaz vykonať?",
+      "options": [
+        "a) Nie",
+        "b) Áno a dodatočne žiadať vysvetlenie"
+      ],
+      "correct_index": 0,
+      "explanation": "Nie, pracovník je povinný odmietnuť splnenie príkazu, ak je v rozpore s bezpečnostnými predpismi."
+    },
+    {
+      "id": 156,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Počas prestávky (pri práci podľa príkazu B), pri neprítomnosti pracovníka povereného dozorom, nikto nesmie vstúpiť na pracovisko. Otázka: Pri prerušení práce (napríklad počas búrky) musí celá pracovná skupina spoločne opustiť svoje pracovisko?",
+      "options": [
+        "a) Nie",
+        "b) Áno",
+        "c) Rozhodne o tom majiteľ objektu",
+        "d) Rozhodne o tom objednávateľ prác"
+      ],
+      "correct_index": 1,
+      "explanation": "Pri prerušení práce (napr. prestávka, búrka) musí celá pracovná skupina spoločne opustiť pracovisko."
+    },
+    {
+      "id": 157,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Čo musí urobiť pracovník poverený dozorom (pri práci podľa príkazu B) pred povolením, aby pracovníci mohli opätovne vstúpiť na pracovisko?",
+      "options": [
+        "a) Spočíta, či sú všetci",
+        "b) Zistí, či v zaistení pracoviska nenastali zmeny",
+        "c) Zapojí skratovaciu súpravu"
+      ],
+      "correct_index": 1,
+      "explanation": "Pred obnovením práce je kľúčové zistiť, či v zaistení pracoviska nenastali zmeny (napr. neoprávnený vstup)."
+    },
+    {
+      "id": 158,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Kedy sa musia urobiť skúšky elektrickej inštalácie na ktorej sa pracovalo podľa príkazu B?",
+      "options": [
+        "a) Ešte v zaistenej inštalácii",
+        "b) Po odpojení skratovacej súpravy",
+        "c) Po odchode pracovnej skupiny"
+      ],
+      "correct_index": 2,
+      "explanation": "Skúšky inštalácie sa môžu začať vykonávať až po odchode pracovnej skupiny z pracoviska a ukončení prác."
+    },
+    {
+      "id": 159,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Ako sa posudzuje vypnutá elektrická inštalácia (pri práci podľa príkazu B), keď už bola odstránená skratovacia súprava?",
+      "options": [
+        "a) Pokladá sa za elektrickú inštaláciu bez napätia",
+        "b) Pokladá sa za elektrickú inštaláciu pod napätím"
+      ],
+      "correct_index": 1,
+      "explanation": "Odstránením skratovacej súpravy zaniká posledné zaistenie. Inštalácia sa preto až do okamihu opätovného pripojenia považuje za elektrickú inštaláciu pod napätím."
+    },
+    {
+      "id": 160,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Kedy sa môže odstrániť zaistenie pracoviska (pri práci podľa príkazu B)?",
+      "options": [
+        "a) Až keď celá pracovná skupina opustí pracovisko",
+        "b) Po ukončení všetkých prác",
+        "c) Na príkaz revízneho technika"
+      ],
+      "correct_index": 0,
+      "explanation": "Zaistenie pracoviska (zábrany, uzamknutie) sa smie odstrániť až vtedy, keď celá pracovná skupina opustí pracovisko."
+    },
+    {
+      "id": 161,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pri skončení PPN (pri práci podľa príkazu B) po odstránení všetkých ochranných a pracovných pomôcok a po sústredení všetkých pracovníkov na určenom mieste, uzatvorí zodpovedný vedúci práce príkaz BPPN. Otázka: Komu vedúci práce pri skončení B-PPN oznámi skončenie práce?",
+      "options": [
+        "a) Dispečerovi a osobe zodpovednej za prevádzku el. inštalácie",
+        "b) Revíznemu technikovi",
+        "c) Inšpektorátu práce"
+      ],
+      "correct_index": 0,
+      "explanation": "Skončenie PPN sa oznamuje osobe, ktorá prácu riadi, a dispečerovi/prevádzke, aby bolo možné opätovne zapnúť EZ."
+    },
+    {
+      "id": 162,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Podáva zodpovedný vedúci práce správu o skončení práce podľa príkazu B osobe, ktorá pracovisko zaisťovala alebo zaistenie organizovala?",
+      "options": [
+        "a) Áno",
+        "b) Nie"
+      ],
+      "correct_index": 0,
+      "explanation": "Áno, vedúci práce musí osobe zodpovednej za zaistenie nahlásiť, že práca bola ukončená a pracovisko je voľné."
+    },
+    {
+      "id": 163,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Od koho musí mať vedúci práce (po skončení práce podľa príkazu B) súhlas na pripojenie elektrickej inštalácie na napájanie?",
+      "options": [
+        "a) Od inšpektorátu práce",
+        "b) Od osoby zodpovednej za prevádzku el. inštalácie",
+        "c) Od revízneho technika",
+        "d) Od technickej inšpekcie"
+      ],
+      "correct_index": 1,
+      "explanation": "Súhlas na zapnutie vydáva Osoba zodpovedná za prevádzku EZ."
+    },
+    {
+      "id": 164,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "PPN na el. inštaláciách mn a nn sú zakázané, ak tieto inštalácie sú v súbehu alebo sa križujú s vedeniami vn, wn alebo zvn alebo keď sú v spoločných priestoroch s takýmito zariadeniami. Otázka: Kedy ešte sú zakázané PPN na inštaláciách nn?",
+      "options": [
+        "a) Cez leto",
+        "b) V priestoroch tesných, s prostredím horúcim",
+        "c) Za búrky, za tmy, za vetra",
+        "d) Cez zimu"
+      ],
+      "correct_index": 2,
+      "explanation": "PPN sú zakázané za nepriaznivých poveternostných podmienok (búrka, tma, silný vietor), aby sa eliminovalo nebezpečenstvo."
+    },
+    {
+      "id": 165,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Akú kvalifikáciu musí mať pracovník, ktorý pracuje v blízkosti živých časti nn bližšie ako 20 cm alebo pracuje sám na elektrickej inštalácii nn (v prostredí suchom)?",
+      "options": [
+        "a) Najmenej osoba znalá",
+        "b) Najmenej osoba poučená",
+        "c) Najmenej osoba znalá s vyššou kvalifikáciou"
+      ],
+      "correct_index": 0,
+      "explanation": "Práca v blízkosti NN (do 20 cm) vyžaduje osobu znalú (§ 21)."
+    },
+    {
+      "id": 166,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Existujú práce na elektrických inštaláciách nn v prostredí vonkajšom, mokrom, horúcom alebo so zvýšenou korozívnou agresivitou. Otázka: Ako na živých častiach takýchto elektrických inštaláciách môže pracovať pracovník aspoň s kvalifikáciou znalej osoby?",
+      "options": [
+        "a) Pod dozorom znalej osoby s vyššou kvalifikáciou",
+        "b) S dohľadom znalej osoby s vyššou kvalifikáciou",
+        "c) Môže pracovať samostatne"
+      ],
+      "correct_index": 0,
+      "explanation": "V nebezpečných prostrediach (napr. mokré, horúce, vonkajšie) je pre osoby znalé (§ 21) práca na živých častiach povolená iba pod dozorom (§ 23, § 24)."
+    },
+    {
+      "id": 167,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Existujú práce na elektrických inštaláciách nn v prostredí vonkajšom, mokrom, horúcom alebo so zvýšenou korozívnou agresivitou. Otázka: Ako na živých častiach takýchto elektrických inštaláciách môže pracovať pracovník s kvalifikáciou znalej osoby s vyššou kvalifikáciou?",
+      "options": [
+        "a) S dohľadom osoby znalej s vyššou kvalifikáciou",
+        "b) Samostatne okrem prác z vodivých oporných rebríkov",
+        "c) Pod dozorom osoby znalej s vyššou kvalifikáciou"
+      ],
+      "correct_index": 1,
+      "explanation": "Osoby s vyššou kvalifikáciou (§ 23, § 24) môžu v nebezpečných prostrediach pracovať samostatne, s výnimkou prác, ktoré sú špeciálne zakázané, napr. práce z vodivých rebríkov."
+    },
+    {
+      "id": 168,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Existujú práce na oznamovacích zariadeniach nn pri ktorých nehrozí nebezpečenstvo od iných inštalácií. Otázka: Ako môže na takýchto oznamovacích zariadeniach nn pracovať osoba znalá?",
+      "options": [
+        "a) Samostatne",
+        "b) Podľa pokynov znalej osoby s vyššou kvalifikáciou",
+        "c) Výhradne pod dozorom znalej osoby s vyššou kvalifikáciou",
+        "d) S dohľadom inej znalej osoby"
+      ],
+      "correct_index": 0,
+      "explanation": "Ak nehrozí nebezpečenstvo, oznamovacie zariadenia sa považujú za bezpečné a znalá osoba (§ 21) na nich môže pracovať samostatne."
+    },
+    {
+      "id": 169,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pri práci v blízkosti živých časti vn, wn a zvn môže pracovať znalá osoba s dohľadom znalej osoby s vyššou kvalifikáciou. Otázka: Do akej vzdialenosti sa môže k živým častiam s napätím do 10 kV osoba priblížiť?",
+      "options": [
+        "a) Vnútorná inštalácia - do 45 cm",
+        "b) Vonkajšia inštalácia - do 50 cm",
+        "c) Do 35 cm",
+        "d) Do 40 cm"
+      ],
+      "correct_index": 0,
+      "explanation": "Pre napätie do 10 kV je bezpečná vzdialenosť priblíženia v interiéri stanovená na 45 cm."
+    },
+    {
+      "id": 170,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Pri práci v blízkosti živých častí vn, wn a zvn môže pracovať osoba znalá s vyššou kvalifikáciou sama. Otázka: Do akej vzdialenosti sa môže k živým častiam s napätím do 22 kV osoba priblížiť?",
+      "options": [
+        "a) Do 50 cm",
+        "b) Vnútorná inštalácia - do 75 cm",
+        "c) Vonkajšia inštalácia - do 80 cm",
+        "d) Do 30 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre napätie do 22 kV (v interiéri) je bezpečná vzdialenosť priblíženia pre osobu s vyššou kvalifikáciou 75 cm."
+    },
+    {
+      "id": 171,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "V akej minimálnej vzdialenosti od živých častí do 10 kV sa môžu montovať prenosné zábrany z izolačného materiálu?",
+      "options": [
+        "a) Min 5 cm",
+        "b) Vždy sa montujú priamo na živé časti",
+        "c) Do 4 cm",
+        "d) Do 3 cm"
+      ],
+      "correct_index": 0,
+      "explanation": "Pri montáži prenosných izolačných zábran sa musí dodržať minimálna bezpečná vzdušná vzdialenosť, ktorá je pre 10 kV stanovená na 5 cm."
+    },
+    {
+      "id": 172,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "V prevádzkach vn, wn alebo zvn môžu byť živé časti kryté plnými alebo sieťovými zábranami - vtedy upratovanie tam môže robiť osoba poučená. Otázka: Ako sa robí upratovanie v uvedených prevádzkach, ak živé časti nie sú kryté plnými alebo sieťovými zábranami?",
+      "options": [
+        "a) Upratuje poučená osoba pod dozorom obsluhy",
+        "b) Upratuje obsluha sama",
+        "c) Neupratuje sa"
+      ],
+      "correct_index": 1,
+      "explanation": "Ak nie sú živé časti kryté (a hrozí riziko), upratovanie smie vykonávať obsluha sama (kvalifikovaná osoba), alebo sa v priestore bez krytia neupratuje."
+    },
+    {
+      "id": 173,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "PPN na zariadeniach vn, wn a zvn musia vykonávať najmenej dvaja pracovníci. Otázka: Kedy sú PPN na vn zakázané (v dotyku a na potenciáli)?",
+      "options": [
+        "a) Vonku aj pri malých atmosférických zrážkach",
+        "b) V dňoch pracovného pokoja",
+        "c) Vo vnútri, ak hrozí orosenie pomôcok a izolácie"
+      ],
+      "correct_index": 2,
+      "explanation": "PPN je zakázané vždy, keď hrozí zníženie izolačných vlastností (napr. dážď, orosenie, sneh, vysoká vlhkosť) – platí to aj vo vnútri, ak hrozí orosenie pomôcok."
+    },
+    {
+      "id": 174,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Kto musí riadiť manipuláciu s kovovým rebríkom (preprava, vysúvanie,..)?",
+      "options": [
+        "a) Znalá osoba s vyššou kvalifikáciou",
+        "b) Poučené osoba",
+        "c) Znalá osoba"
+      ],
+      "correct_index": 0,
+      "explanation": "Manipuláciu s kovovými (vodivými) rebríkmi v blízkosti EZ musí riadiť a schvaľovať osoba s vyššou kvalifikáciou (§ 23, § 24)."
+    },
+    {
+      "id": 175,
+      "kategoria_tema": "Práca na elektrických zariadeniach a bezpečná obsluha EZ",
+      "question": "Kedy na PPN nad 1 kV musia byť pracovníci vybavení pomôckami obmedzujúcimi vplyv elektrického poľa na ľudský organizmus (napr. ochranné vodivé oblečenie)?",
+      "options": [
+        "a) Pri intenzite elektrického poľa nad 5 kV/m",
+        "b) Pri intenzite elektrického poľa nad 10 kV/m",
+        "c) Pri intenzite elektrického poľa nad 15 kV/m",
+        "d) Pri intenzite elektrického poľa nad 6 kV/m"
+      ],
+      "correct_index": 2,
+      "explanation": "Ochranné oblečenie na zníženie vplyvu el. poľa (napr. vodivý oblek) je povinné, ak je intenzita elektrického poľa vyššia ako 15 kV/m."
+    },
+    {
+      "id": 176,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktorý vodič označujeme symbolom N?",
+      "options": [
+        "a) Neutrálny vodič (N)",
+        "b) Ochranný vodič (PE)",
+        "c) Kombinovaný vodič PE a N (PEN)",
+        "d) Fázový vodič"
+      ],
+      "correct_index": 0,
+      "explanation": "Neutrálny (pracovný) vodič sa označuje symbolom N."
+    },
+    {
+      "id": 177,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktorý vodič označujeme symbolom PE?",
+      "options": [
+        "a) Neutrálny vodič (N)",
+        "b) Ochranný vodič (PE)",
+        "c) Kombinovaný vodič PE a N (PEN)",
+        "d) Fázový vodič"
+      ],
+      "correct_index": 1,
+      "explanation": "Ochranný vodič sa označuje symbolom PE."
+    },
+    {
+      "id": 178,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktorý vodič označujeme symbolom PEN?",
+      "options": [
+        "a) Neutrálny vodič (N)",
+        "b) Ochranný vodič (PE)",
+        "c) Kombinovaný vodič PE a N (PEN)",
+        "d) Fázový vodič"
+      ],
+      "correct_index": 2,
+      "explanation": "Kombinovaný vodič plniaci funkciu PE a N sa označuje symbolom PEN."
+    },
+    {
+      "id": 179,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako sa nazýva napätie medzi dvoma fázami v striedavej sieti?",
+      "options": [
+        "a) Napätie združené",
+        "b) Napätie fázové",
+        "c) Napätie menovité",
+        "d) Napätie nulové"
+      ],
+      "correct_index": 0,
+      "explanation": "Napätie medzi dvoma fázovými vodičmi (napr. L1 a L2) sa nazýva združené (alebo tiež medzifázové) napätie."
+    },
+    {
+      "id": 180,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako sa nazýva napätie medzi príslušnou fázou a neutrálnym vodičom v striedavej sieti?",
+      "options": [
+        "a) Napätie združené",
+        "b) Napätie fázové",
+        "c) Napätie menovité",
+        "d) Napätie nulové"
+      ],
+      "correct_index": 1,
+      "explanation": "Napätie medzi fázovým a neutrálnym vodičom (alebo zemou) sa nazýva fázové napätie."
+    },
+    {
+      "id": 181,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako sa nazýva vodič, ktorý je v jednosmernej sieti vedený zo stredného bodu?",
+      "options": [
+        "a) Neutrálny vodič",
+        "b) Stredný vodič",
+        "c) Záporný vodič",
+        "d) Beznapäťový vodič"
+      ],
+      "correct_index": 1,
+      "explanation": "V jednosmernej sieti sa vodič vedený zo stredného bodu (analógia N vo AC) nazýva stredný vodič (označovaný M)."
+    },
+    {
+      "id": 182,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Písmená T a N v označení sieti určujú spôsoby uzemnenia siete. Otázka: Čo vyjadruje písmeno T v označení siete TN-S?",
+      "options": [
+        "a) T - priame spojenie jedného bodu siete so zemou",
+        "b) T - priame spojenie neživých častí so zemou"
+      ],
+      "correct_index": 0,
+      "explanation": "Prvé písmeno (T) znamená uzemnenie siete: Terra (Zem) – priame spojenie jedného bodu siete so zemou (uzol transformátora)."
+    },
+    {
+      "id": 183,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Čo vyjadruje C v označení siete TN-C?",
+      "options": [
+        "a) Do rozvodu je vyvedený samostatný ochranný vodič PE",
+        "b) Vodič PEN plní funkciu ochranného aj neutrálneho vodiča",
+        "c) Do rozvodu je vyvedený samostatný neutrálny vodič N"
+      ],
+      "correct_index": 1,
+      "explanation": "Písmeno C znamená Combined (kombinované) – funkciu ochranného (PE) a neutrálneho (N) vodiča plní jeden vodič PEN."
+    },
+    {
+      "id": 184,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Čo vyjadruje S v označení siete TN-S?",
+      "options": [
+        "a) Ochranný vodič je spojený s pracovným vodičom",
+        "b) Ochranný vodič PE je v sieti vedený samostatne"
+      ],
+      "correct_index": 1,
+      "explanation": "Písmeno S znamená Separate (samostatné) – ochranný vodič PE je v sieti vedený samostatne od neutrálneho vodiča N."
+    },
+    {
+      "id": 185,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako sa označuje sieť, ktorá má vyvedenú pracovnú zem, ale predmety a neživé časti EZ sa pripájajú len na samostatné uzemňovače?",
+      "options": [
+        "a) Sieť TN-S",
+        "b) Sieť TN-C",
+        "c) Sieť IT",
+        "d) Sieť TT"
+      ],
+      "correct_index": 3,
+      "explanation": "T: priame uzemnenie siete (uzla); T: priame uzemnenie neživých častí (na samostatný uzemňovač). Sieť TT."
+    },
+    {
+      "id": 186,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako sa označuje sieť, v ktorej uzol transformátora nie je priamo uzemnený, teda nemá uzemnený neutrálny bod, pričom predmety a neživé časti EZ sú pripojené na samostatné uzemňovače?",
+      "options": [
+        "a) Sieť TN-S",
+        "b) Sieť TN-C",
+        "c) Sieť IT"
+      ],
+      "correct_index": 2,
+      "explanation": "I: Isolated (izolované) uzemnenie siete (alebo uzemnenie cez veľkú impedanciu); T: priame uzemnenie neživých častí (na samostatný uzemňovač). Sieť IT."
+    },
+    {
+      "id": 187,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aká sieť má zapojenie troch fáz a spoločný vodič PEN?",
+      "options": [
+        "a) Striedavá sieť TT",
+        "b) Striedavá sieť IT",
+        "c) Striedavá sieť TN-C",
+        "d) Striedavá sieť TN-C-S"
+      ],
+      "correct_index": 2,
+      "explanation": "Ak je v striedavej sieti uzol uzemnený (T), neživé časti spojené s uzlom (N) a vodič N a PE sú spojené (C), jedná sa o sieť TN-C."
+    },
+    {
+      "id": 188,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aká AC sieť sa začína ako TN-C a neskôr sa rozdeľuje na PE a N?",
+      "options": [
+        "a) Striedavá sieť TT",
+        "b) Jednosmerná sieť IT",
+        "c) Jednosmerná sieť TN-C-S",
+        "d) Striedavá sieť TN-C-S"
+      ],
+      "correct_index": 3,
+      "explanation": "Ak sa sieť začína ako TN-C (kombinovaný PEN) a potom sa rozdelí na samostatný PE a N, ide o sieť TN-C-S."
+    },
+    {
+      "id": 189,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aká sieť má samostatné vodiče PE a N od začiatku (od zdroja)?",
+      "options": [
+        "a) Striedavá sieť TT",
+        "b) Jednosmerná sieť IT",
+        "c) Jednosmerná sieť TN-C",
+        "d) Striedavá sieť TN-S"
+      ],
+      "correct_index": 3,
+      "explanation": "Ak je v striedavej sieti uzol uzemnený (T), neživé časti spojené s uzlom (N) a vodič N a PE sú vedené samostatne (S), jedná sa o sieť TN-S."
+    },
+    {
+      "id": 190,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktorá značka sa používa na označenie pripojovacieho miesta určeného na pripojenie ochranného vodiča?",
+      "options": [
+        "a) Značka 5017",
+        "b) Značka 5019",
+        "c) Značka 5005",
+        "d) Značka 5033"
+      ],
+      "correct_index": 2,
+      "explanation": "Značka na označenie svorky ochranného vodi (PE) je podľa STN/IEC grafická značka 5005 (uzemňovacia svorka)."
+    },
+    {
+      "id": 191,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktorá značka sa používa na označenie meniča-usmerňovača na usmernenie striedavého prúdu na jednosmerný?",
+      "options": [
+        "a) Značka 5003",
+        "b) Značka 5194",
+        "c) Značka 5033",
+        "d) Značka 5001"
+      ],
+      "correct_index": 1,
+      "explanation": "Značka 5194 (grafický symbol usmerňovača) sa používa na označenie zariadení transformujúcich AC na DC."
+    },
+    {
+      "id": 192,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktorý rozsah striedavých napätí U platí pre napäťové pásmo I?",
+      "options": [
+        "a) Krajný vodič proti zemi: U < 60 V",
+        "b) Medzi krajnými vodičmi: 50 V < U < 120 V",
+        "c) Krajný vodič proti zemi i medzi vodičmi: U <= 50 V",
+        "d) Medzi krajnými vodičmi: 50 V < U < 1000 V"
+      ],
+      "correct_index": 2,
+      "explanation": "Napäťové pásmo I (ELV - veľmi nízke napätie) je stanovené pre striedavé napätia do U ≤ 50 V a jednosmerné do U ≤ 120 V."
+    },
+    {
+      "id": 193,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktorý rozsah striedavých napätí U platí pre napäťové pásmo II?",
+      "options": [
+        "a) Krajný vodič proti zemi: U < 60 V",
+        "b) Medzi krajnými vodičmi: 50 V < U < 120 V",
+        "c) Krajný vodič proti zemi 50 V < U <= 600 V",
+        "d) Medzi krajnými vodičmi: 50 V < U <= 1000 V"
+      ],
+      "correct_index": 3,
+      "explanation": "Napäťové pásmo II (NN - nízke napätie) zahŕňa striedavé napätia od 50 V do 1000 V (združené) a jednosmerné od 120 V do 1500 V."
+    },
+    {
+      "id": 194,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Akú farbu má izolácia neutrálneho vodiča N (v striedavej sieti) a stredného vodiča M (v jednosmernej sieti)?",
+      "options": [
+        "a) Farba zelená/žltá",
+        "b) Farba čierna",
+        "c) Farba bledo modrá (svetlo modrá)",
+        "d) Farba oranžová"
+      ],
+      "correct_index": 2,
+      "explanation": "Neutrálny vodič N a stredný vodič M sa označujú bledo modrou (svetlo modrou) farbou."
+    },
+    {
+      "id": 195,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Akú farbu má izolácia ochranného vodiča PE (v striedavej sieti)?",
+      "options": [
+        "a) Farba zelená/žltá",
+        "b) Farba čierna",
+        "c) Farba bledo modrá (svetlo modrá)",
+        "d) Farba oranžová"
+      ],
+      "correct_index": 0,
+      "explanation": "Ochranný vodič PE sa označuje kombináciou farieb zelená/žltá."
+    },
+    {
+      "id": 196,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Akú farbu má izolácia neutrálneho vodiča N (v striedavej sieti)?",
+      "options": [
+        "a) Farba zelená/žltá po celej dĺžke s modrým zakončením",
+        "b) Farba čierna",
+        "c) Farba bledo modrá (svetlo modrá)",
+        "d) Farba zelená/žltá"
+      ],
+      "correct_index": 2,
+      "explanation": "Vodič N sa označuje farbou bledo modrou."
+    },
+    {
+      "id": 197,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Akú farbu má izolácia kombinovaného vodiča PEN (v striedavej sieti)?",
+      "options": [
+        "a) Farba zelená/žltá po celej dĺžke s modrým zakončením",
+        "b) Farba čierna",
+        "c) Farba bledo modrá (svetlo modrá)",
+        "d) Farba zelená/žltá"
+      ],
+      "correct_index": 0,
+      "explanation": "Vodič PEN (kombinácia PE a N) sa označuje farbou zelená/žltá po celej dĺžke s modrým zakončením."
+    },
+    {
+      "id": 198,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Akou farbou označujeme fázu L vo vnútorných rozvodoch?",
+      "options": [
+        "a) Farba hnedá",
+        "b) Farba čierna",
+        "c) Farba oranžová (možné doplnenie jeden čierny pruh)",
+        "d) Farba bledo modrá"
+      ],
+      "correct_index": 0,
+      "explanation": "Vo všeobecnosti sa fázové vodiče L1, L2, L3 označujú: hnedá, čierna, šedá. Hnedá je základná farba pre fázu L1."
+    },
+    {
+      "id": 199,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Akú farbu má izolácia vodiča od + (kladného) pólu jednosmerného rozvodu?",
+      "options": [
+        "a) Farba bledo modrá",
+        "b) Farba tmavo modrá",
+        "c) Farba červená",
+        "d) Farba zelená/žltá"
+      ],
+      "correct_index": 2,
+      "explanation": "V jednosmerných sústavách sa kladný pól (+) označuje červenou farbou."
+    },
+    {
+   "id": 200,
+   "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+   "question": "Aké je predpísané farebné označenie kladného (+) a záporného (-) pólu v jednosmerných (DC) sústavách podľa aktuálnej normy STN EN 60445?",
+   "options": [
+    "a) Kladný (+): Hnedá, Záporný (-): Modrá",
+    "b) Kladný (+): Červená, Záporný (-): Biela",
+    "c) Kladný (+): Červená, Záporný (-): Tmavomodrá",
+    "d) Kladný (+): Čierna, Záporný (-): Biela"
+   ],
+    "correct_index": 1,
+   "explanation": "Podľa STN EN 60445 sa pre kladný pól odporúča červená farba a pre záporný pól biela farba. Modrá je vyhradená pre stredný vodič (M)."
+    },
+    {
+      "id": 201,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako sú označené svorky na elektrickom predmete, ktorý bude pripojený k fázam L1, L2 a L3?",
+      "options": [
+        "a) Svorky sú označené: U, V, W (U1, V1, W1)",
+        "b) Svorky sú označené: L1, L2. L3 (LX, LY, LZ)",
+        "c) Svorky sú označené PE, N, PEN (PE+, N+, PEN+)",
+        "d) Svorky sú označené: -> +, N (+aa, -aa, Naa)"
+      ],
+      "correct_index": 0,
+      "explanation": "Svorky elektrických zariadení (napr. motorov, vypínačov) pre fázy L1, L2, L3 sa obvykle označujú symbolmi U, V, W."
+    },
+    {
+      "id": 202,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako označujeme kábel: G trojžilový kábel, jadrá žil sú medené s PVC izoláciou, plášť kábla je z PVC; farba žíl je: č; m; z/ž; menovitý prierez žil je 2,5 mm²?",
+      "options": [
+        "a) AYKY 3C 2,5 mm²",
+        "b) CYKY 2,5 mm²",
+        "c) 3X 70/2,5",
+        "d) 2XCY 2,5 mm²"
+      ],
+      "correct_index": 1,
+      "explanation": "CYKY znamená: C – meď (Cu), Y – PVC izolácia, K – kábel, Y – PVC plášť."
+    },
+    {
+      "id": 203,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako označujeme silový kábel s hliníkovými jadrami, izolácia vodičov je PVC a plášť kábla je PVC?",
+      "options": [
+        "a) AGU",
+        "b) CYKY",
+        "c) AYKY",
+        "d) CY"
+      ],
+      "correct_index": 2,
+      "explanation": "A: hliník (Al), Y: PVC izolácia, K: kábel, Y: PVC plášť. Označenie je AYKY."
+    },
+    {
+      "id": 204,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako označujeme silový kábel s medenými jadrami, izolácia vodičov je PVC, plášť kábla je PVC?",
+      "options": [
+        "a) AGU",
+        "b) CYKY",
+        "c) AYKY",
+        "d) CY"
+      ],
+      "correct_index": 1,
+      "explanation": "C: meď (Cu), Y: PVC izolácia, K: kábel, Y: PVC plášť. Označenie je CYKY."
+    },
+    {
+      "id": 205,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako označujeme silový kábel s hliníkovými jadrami, jadra majú gumovú izoláciu a plášť kábla je chlorprenový?",
+      "options": [
+        "a) AGU",
+        "b) CYKY",
+        "c) AYKY",
+        "d) CY"
+      ],
+      "correct_index": 0,
+      "explanation": "A: hliník (Al), G: guma (izolácia), U: chloroprén/kaučuk (plášť). Označenie je AGU."
+    },
+    {
+      "id": 206,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako označujeme silový vodič s medeným (Cu) jadrom a PVC izoláciou?",
+      "options": [
+        "a) AG",
+        "b) AY",
+        "c) CY",
+        "d) CU"
+      ],
+      "correct_index": 2,
+      "explanation": "C: meď (Cu), Y: PVC izolácia. Označenie je CY."
+    },
+    {
+      "id": 207,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako označujeme silový vodič s hliníkovým (Al) jadrom a PVC izoláciou?",
+      "options": [
+        "a) AG",
+        "b) AY",
+        "c) CY",
+        "d) CU"
+      ],
+      "correct_index": 1,
+      "explanation": "A: hliník (Al), Y: PVC izolácia. Označenie je AY."
+    },
+    {
+      "id": 208,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Čo znamená písmeno „J“ v označení kábla (napr. CYKY-J 3x2,5)?",
+      "options": [
+        "a) Kábel je určený do jadrových elektrární",
+        "b) Kábel obsahuje ochranný vodič (zeleno-žltý)",
+        "c) Kábel má jedno drôtené jadro",
+        "d) Kábel je určený pre jednosmerný prúd"
+      ],
+      "correct_index": 1,
+      "explanation": "Dnes sa používa harmonizované značenie: J (obsahuje zeleno-žltú žilu) a O (neobsahuje zeleno-žltú žilu). Pôvodné značenie G a X sa v nových projektoch už takmer nevyskytuje."
+    },
+    {
+      "id": 209,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako (podľa STN 34 7409) označujeme štvoržilový kábel s menovitým prierezom jadier 50 mm², bez žily z/ž?",
+      "options": [
+        "a) 4 X 50",
+        "b) 4 G 50",
+        "c) 4 AYKY 50",
+        "d) 4 CYKY 50"
+      ],
+      "correct_index": 0,
+      "explanation": "Označenie 'X' sa používa, ak kábel neobsahuje ochranný vodič zeleno-žltej farby. Správne označenie prierezu je 4 X 50."
+    },
+    {
+      "id": 210,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktorá je základná bezpečnostná elektrotechnická norma (pre elektrické inštalácie budov)?",
+      "options": [
+        "a) STN EN 33 0340",
+        "b) STN 33 2000-4-41",
+        "c) STN 33 2000-3"
+      ],
+      "correct_index": 1,
+      "explanation": "Základná norma pre ochranu pred úrazom elektrickým prúdom v budovách je STN 33 2000-4-41."
+    },
+    {
+      "id": 211,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Podľa predbežnej normy STN P 33 2000-5-51 určujeme vonkajšie vplyvy (teplota, vlhkosť, voda, korózia,.. ), ktoré majú vplyv na možnosť vzniku úrazu elektrickým prúdom, poruchy a havárie. Otázka: Aké je zaužívané označovanie priestorov z pohľadu možnosti úrazu elektrickým prúdom?",
+      "options": [
+        "a) Bez nebezpečenstva výbuchu a s nebezpečenstvom výbuchu",
+        "b) Priestory normálne, nebezpečné a osobitne nebezpečné",
+        "c) S prostredím obyčajným, studeným a horúcim"
+      ],
+      "correct_index": 1,
+      "explanation": "Zaužívané delenie priestorov z hľadiska nebezpečenstva úrazu: normálne, nebezpečné a osobitne nebezpečné."
+    },
+    {
+      "id": 212,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktoré priestory znižujú nebezpečenstvo úrazu elektrickým prúdom?",
+      "options": [
+        "a) Bez nebezpečenstva výbuchu",
+        "b) Priestory s mokrým prostredím",
+        "c) Priestory normálne"
+      ],
+      "correct_index": 2,
+      "explanation": "Nebezpečenstvo úrazu znižujú normálne priestory, kde nehrozia extrémne vplyvy."
+    },
+    {
+      "id": 213,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Podľa STN 33 2000-5-51 prostredie určujú triedy A. Otázka: Čo vyjadruje trieda vonkajších vplyvov AB4?",
+      "options": [
+        "a) Bez nebezpečenstva živočíchov",
+        "b) Teplota do +70 °C",
+        "c) Teplota -5 až +40 °C, relat. vlhkosť 5-95 % (normálny vplyv)",
+        "d) Stekajúca voda"
+      ],
+      "correct_index": 2,
+      "explanation": "Kód AB4 definuje normálny rozsah klimatických podmienok pre naše podnebie."
+    },
+    {
+      "id": 214,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Výskyt vody ako vonkajší vplyv podľa STN 33 2000-5-51 označujeme: AD1 až AD8. Otázka: Čo vyjadruje označenie vonkajšieho vplyvu AD1?",
+      "options": [
+        "a) Výskyt vody je zanedbateľný",
+        "b) Výskyt vody - kvapky",
+        "c) Výskyt vody - striekajúca pod tlakom"
+      ],
+      "correct_index": 0,
+      "explanation": "Kód AD1 označuje, že výskyt vody je zanedbateľný (suché prostredie)."
+    },
+    {
+      "id": 215,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Korodovanie v prostredí ako vonkajší vplyv označujeme podľa STN 33 2000-5-51 kódmi AF1 až AF4. Otázka: Čo vyjadruje vonkajší vplyv prostredia AF1?",
+      "options": [
+        "a) Korózia - trvalá",
+        "b) Korózia - zanedbateľná",
+        "c) Korózia - atmosférická"
+      ],
+      "correct_index": 1,
+      "explanation": "Kód AF1 znamená, že vplyv korózie je zanedbateľný."
+    },
+    {
+      "id": 216,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Prašnosť v prostredí ako vonkajší vplyv podľa STN 33 2000-5-51 označujeme kódmi AE1 až AE6. Otázka: Čo vyjadruje vonkajší vplyv prostredia AE6?",
+      "options": [
+        "a) Cudzie telesá - silná prašnosť",
+        "b) Cudzie telesá - zanedbateľné",
+        "c) Cudzie telesá - veľmi malé"
+      ],
+      "correct_index": 0,
+      "explanation": "Kód AE6 vyjadruje silnú prašnosť a prítomnosť cudzích telies."
+    },
+    {
+      "id": 217,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Na niektorých elektrických predmetoch sú niektoré nápisy nahradené grafickými značkami. Otázka: Čo vyjadruje značka: mriežka v štvorcovom rámiku, rámik je rohom dole?",
+      "options": [
+        "a) Vyhotovenie prachotesné",
+        "b) Vyhotovenie vonkajšie",
+        "c) Vyhotovenie do vlhka"
+      ],
+      "correct_index": 0,
+      "explanation": "Symbol štvorcového rámiku s mriežkou, postaveného na roh, označuje ochranu proti prachu (prachotesné vyhotovenie – IP kód)."
+    },
+    {
+      "id": 218,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Na niektorých elektrických predmetoch sú niektoré nápisy nahradené grafickými značkami. Otázka: Čo vyjadruje značka: jedna kvapka?",
+      "options": [
+        "a) Vyhotovenie nepremokavé",
+        "b) Vyhotovenie do vlhka",
+        "c) Vyhotovenie vonkajšie"
+      ],
+      "correct_index": 1,
+      "explanation": "Symbol jednej kvapky sa používa na označenie zariadení určených pre vlhké prostredie."
+    },
+    {
+      "id": 219,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Na niektorých elektrických predmetoch sú niektoré nápisy nahradené grafickými značkami. Otázka: Čo vyjadruje značka: jedna kvapka v rámiku?",
+      "options": [
+        "a) Vyhotovenie tesné (uzavreté)",
+        "b) Vyhotovenie do vlhka",
+        "c) Vyhotovenie vonkajšie"
+      ],
+      "correct_index": 0,
+      "explanation": "Symbol kvapky v rámiku sa používa pre uzavreté, tesné vyhotovenie."
+    },
+    {
+      "id": 220,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Čo vyjadruje kód IP 44 na elektrickom zariadení?",
+      "options": [
+        "a) Ochrana pred dotykom rukou a pred ponorením do vody",
+        "b) Ochrana pred vniknutím predmetov nad 1 mm a pred striekajúcou vodou",
+        "c) Ochrana pred prachom a pred dočasným zaplavením",
+        "d) Ochrana pred mechanickým nárazom 44 Joulov"
+      ],
+      "correct_index": 1,
+      "explanation": "Grafické značky (kvapky v trojuholníku) sú minulosťou. Dnes sa skúša znalosť IP kódu: Prvá 4 = predmety nad 1 mm (drôt), druhá 4 = striekajúca voda zo všetkých smerov."
+    },
+    {
+      "id": 221,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Do akej triedy sú zaradené objekty bez nebezpečenstva výbuchu? (Pozor! nehovoríme tu o priestoroch z pohľadu nebezpečenstva úrazu elektrickým prúdom.)",
+      "options": [
+        "a) Objekty triedy A",
+        "b) Objekty triedy B",
+        "c) Objekty triedy BI",
+        "d) Objekty triedy C"
+      ],
+      "correct_index": 0,
+      "explanation": "Z hľadiska požiarneho nebezpečenstva sa objekty bez nebezpečenstva výbuchu delili na triedu A."
+    },
+    {
+      "id": 222,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Do akej triedy sú zaradené objekty s nebezpečenstvom výbuchu?",
+      "options": [
+        "a) Objekty triedy A",
+        "b) Objekty triedy B",
+        "c) Objekty triedy C",
+        "d) Objekty triedy D"
+      ],
+      "correct_index": 2,
+      "explanation": "Z hľadiska požiarneho nebezpečenstva sa objekty s nebezpečenstvom výbuchu zaradili do triedy C."
+    },
+    {
+      "id": 223,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Prenosné elektrické spotrebiče pripájame pohyblivým prívodom do zásuviek pevného rozvodu. Otázka: Ako musí byť pripojený ochranný kontakt (kolík) v pevnej jednofázovej zásuvke (v rozvodoch nn)?",
+      "options": [
+        "a) Ochranný kontakt musí byť spojený s ochranným vodičom PE",
+        "b) Ochranný kontakt vôbec nemusí existovať",
+        "c) Ochranný kontakt musí byť spojený s vodičom N"
+      ],
+      "correct_index": 0,
+      "explanation": "Ochranný kolík musí byť vždy pripojený na ochranný vodič PE (alebo na PEN v sieti TN-C)."
+    },
+    {
+      "id": 224,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Pri ochrane vodičom PEN (PEN zlučuje funkcie vodiča PE a N): Otázka: Aký je postup pripojenia vodiča PEN ako ochranného vodiča v jednofázovej zásuvke?",
+      "options": [
+        "a) Ochranný vodič najprv privedieme na pracovnú zdierku",
+        "b) Ochranný vodič privedieme najprv na ochranný kontakt",
+        "c) Na poradí pripojenia nezáleží"
+      ],
+      "correct_index": 1,
+      "explanation": "Vodič PEN sa pripája najprv na svorku ochranného vodiča (kolík) a až potom sa prepojí na svorku neutrálneho vodiča."
+    },
+    {
+      "id": 225,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Koľko žilová musí byť jednofázová predlžovacia šnúra?",
+      "options": [
+        "a) Dvojžilová (vodiče L a PEN)",
+        "b) Musí byť trojžilová (vodiče L, N, PE)",
+        "c) Môže byť dvoj i trojžilová",
+        "d) Normy to nestanovujú"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre prenosné spotrebiče triedy I musí byť predlžovacia šnúra trojžilová, aby zabezpečila ochranu pred úrazom."
+    },
+    {
+      "id": 226,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Akú farbu musí mať izolácia ochranného vodiča PE?",
+      "options": [
+        "a) Farba zelená",
+        "b) Zelené/žlté pruhy po celej dĺžke",
+        "c) Farba svetlo modrá",
+        "d) Zelené/žlté pruhy po celej dĺžke, s bledomodrým zakončením"
+      ],
+      "correct_index": 1,
+      "explanation": "Ochranný vodič PE musí byť označený kombináciou farieb zelená/žltá po celej dĺžke."
+    },
+    {
+      "id": 227,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Koľko vodičov (žíl) má pohyblivý prívod pre predmety s triedou ochrany II?",
+      "options": [
+        "a) Musí mať tri vodiče",
+        "b) Môže mať dva alebo tri vodiče",
+        "c) Má len dva vodiče",
+        "d) Má štyri vodiče"
+      ],
+      "correct_index": 2,
+      "explanation": "Predmety triedy ochrany II nepotrebujú ochranný vodič PE, preto majú pohyblivý prívod len s dvoma vodičmi (L a N)."
+    },
+    {
+      "id": 228,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Čo musí spĺňať osobitný druh vidlíc a zásuviek pre obvody SELV?",
+      "options": [
+        "a) Musia mať ochranný kolík alebo dutinku",
+        "b) Nesmú byť zameniteľné s inými zásuvkami a vidlicami",
+        "c) Musia mať kontakt pre PE"
+      ],
+      "correct_index": 1,
+      "explanation": "Zariadenia SELV majú nízke bezpečné napätie a nesmú byť zameniteľné s inými sústavami."
+    },
+    {
+      "id": 229,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktoré sú malé bezpečné napätia v zariadeniach do 1000 V v priestoroch osobitne nebezpečných, napr. v mokrom prostredí?",
+      "options": [
+        "a) Striedavé do 6 V, jednosmerné do 15 V",
+        "b) Striedavé do 50 V, jednosmerné do 120 V",
+        "c) Striedavé do 12 V, jednosmerné do 24 V",
+        "d) Striedavé do 24 V, jednosmerné do 60 V"
+      ],
+      "correct_index": 2,
+      "explanation": "V osobitne nebezpečných priestoroch (napr. mokrý terén) je bezpečné napätie SELV/PELV stanovené na striedavé do 12 V a jednosmerné do 24 V."
+    },
+    {
+      "id": 230,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktoré sú malé bezpečné napätia v zariadeniach do 1000 V v suchom prostredí, kedy iná ochrana nie je potrebná (Vonkajší vplyv je AD1)?",
+      "options": [
+        "a) Striedavé do 50 V, jednosmerné do 120 V",
+        "b) Striedavé do 24 V, jednosmerné do 50 V",
+        "c) Striedavé do 25 V, jednosmerné do 60 V"
+      ],
+      "correct_index": 0,
+      "explanation": "V suchom prostredí sú medzné hodnoty bezpečného napätia 50 V AC a 120 V DC."
+    },
+    {
+      "id": 231,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký rozsah striedavých napätí podľa STN 34 3100 má napätie: nn - nízke napätie?",
+      "options": [
+        "a) Nad 50 V do 1000 V",
+        "b) Nad 1 kV do 52 kV",
+        "c) Nad 50 V do 600 V",
+        "d) Od 0 V do 230 V"
+      ],
+      "correct_index": 0,
+      "explanation": "Nízke napätie (NN) je definované ako striedavé napätie nad 50 V do 1000 V alebo jednosmerné napätie nad 120 V do 1500 V."
+    },
+    {
+      "id": 232,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Jedna z ochrán živých častí môže byť umiestnením mimo dosahu. Otázka: Aká je minimálna výška živých častí nad stanoviskom v budovách - do 1000 V?",
+      "options": [
+        "a) Minimálne 2,5 m",
+        "b) Minimálne 2 m",
+        "c) Minimálne 1 m",
+        "d) Minimálne 0,5 m"
+      ],
+      "correct_index": 0,
+      "explanation": "Pre ochranu umiestnením mimo dosahu v budovách je stanovená minimálna výška 2,5 m."
+    },
+    {
+      "id": 233,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aká je minimálna vzdialenosť živých častí vo vodorovnom smere v budovách od stanoviska, pri ochrane umiestnením mimo dosah do 1000 V?",
+      "options": [
+        "a) Minimálne 1 m",
+        "b) Minimálne 1,25 m",
+        "c) Minimálne 0,75 m",
+        "d) Minimálne 2,5 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Pri ochrane umiestnením mimo dosahu je minimálna vodorovná vzdialenosť živých častí od stanoviska 1,25 m."
+    },
+    {
+      "id": 234,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aká je minimálna vzdialenosť živých častí vo vodorovnom smere v budovách pod stanoviskom, pri ochrane umiestnením mimo dosah do 1000 V?",
+      "options": [
+        "a) Minimálne 0,75 m",
+        "b) Minimálne 0,5 m",
+        "c) Minimálne 0,25 m",
+        "d) Minimálne 5 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Minimálna vzdialenosť živých častí vo vodorovnom smere, ktoré sú pod rovinou stanoviska, je 0,25 m."
+    },
+    {
+      "id": 235,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Jedna z ochrán živých častí EZ do 1000 V môže byť zábranou. Otázka: Je zábrana priamo súčasťou elektrického predmetu?",
+      "options": [
+        "a) Áno",
+        "b) Nie"
+      ],
+      "correct_index": 1,
+      "explanation": "Zábrana je prostriedok, ktorý obmedzuje prístup k živým častiam, ale nie je nevyhnutne súčasťou elektrického predmetu."
+    },
+    {
+      "id": 236,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Otázka: Ktorú z ochrán zábranou pri EZ do 1000 V je možné použiť v priestoroch prístupných osobám bez odbornej spôsobilosti na činnosti na EZ?",
+      "options": [
+        "a) Uzamknutím, neodnímateľným plotom, neodnímateľnou mrežou",
+        "b) Uzavretím bez uzamknutia, ohrada lanom",
+        "c) Oddelením tyčou, zábradlím",
+        "d) Stačí tam dať tabuľku so zákazom vstupu"
+      ],
+      "correct_index": 0,
+      "explanation": "V priestoroch prístupných neodborným osobám musí byť ochrana trvalá – uzamknuté pevné zábrany."
+    },
+    {
+      "id": 237,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Stupeň ochrany krytom sa vyznačí symbolom IP a číslami. Otázka: Čo vyjadruje prvé povinné číslo (napríklad; IP 4x)?",
+      "options": [
+        "a) stupeň ochrany pred vniknutím vody",
+        "b) stupeň ochrany pred vniknutím cudzieho telesa"
+      ],
+      "correct_index": 1,
+      "explanation": "Prvé číslo v kóde IP vyjadruje stupeň ochrany proti vniknutiu cudzích telies a prístupu k nebezpečným častiam."
+    },
+    {
+      "id": 238,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ktorý je najnižší prakticky používaný stupeň ochrany krytom (alebo zábranou)? Okrem spodku poistiek a objímok žiaroviek.",
+      "options": [
+        "a) IP 4X",
+        "b) IP 2X",
+        "c) IP X2"
+      ],
+      "correct_index": 1,
+      "explanation": "Všade, kde je možný dotyk rukou, musí byť zabezpečená ochrana aspoň IP 2X (ochrana pred vniknutím prsta)."
+    },
+    {
+      "id": 239,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký minimálny stupeň ochrany musia mať kryty a zábrany, ktoré zabezpečujú ochranu EZ s ľahko prístupnou hornou vodorovnou plochou?",
+      "options": [
+        "a) IP 2X",
+        "b) IP 4X",
+        "c) IP XXB"
+      ],
+      "correct_index": 1,
+      "explanation": "Kryty s ľahko prístupnou vodorovnou plochou musia mať najmenej stupeň ochrany IP 4X."
+    },
+    {
+      "id": 240,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký kód vyjadruje stupeň ochrany elektrických zariadení proti vonkajším mechanickým nárazom (ochrana krytmi proti nárazom)?",
+      "options": [
+        "a) Kód LK",
+        "b) Kód IP",
+        "c) Kód IK"
+      ],
+      "correct_index": 2,
+      "explanation": "Stupeň ochrany krytov proti vonkajším mechanickým nárazom sa označuje kódom IK."
+    },
+    {
+      "id": 241,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ochrana zabezpečením izoláciou spočíva v izolovaní živých častí. Otázka: Je tu lakovanie, smaltovanie alebo natretie farbou tiež izoláciou?",
+      "options": [
+        "a) Nie - to nie je ochrana izoláciou",
+        "b) Áno - aj to je ochrana izoláciou",
+        "c) Áno - ale musia byť nanesené dve vrstvy"
+      ],
+      "correct_index": 0,
+      "explanation": "Lakovanie, smaltovanie alebo natieranie farbou nie je považované za dostatočnú izoláciu pre ochranu pred úrazom."
+    },
+    {
+      "id": 242,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Pre aké napätie musí byť navrhnutá základná izolácia?",
+      "options": [
+        "a) Pre menovité napätie obvodu",
+        "b) Pre menovité napätie a očakávané prepätia",
+        "c) Pre desaťnásobok menovitého napätia"
+      ],
+      "correct_index": 1,
+      "explanation": "Základná izolácia musí byť dimenzovaná tak, aby vydržala menovité napätie obvodu a očakávané prevádzkové prepätia."
+    },
+    {
+      "id": 243,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Akým znakom sa vyznačí na zariadení dvojitá izolácia?",
+      "options": [
+        "a) Znak zdvojeného štvorca",
+        "b) IP 2X",
+        "c) Znak ochranného uzemnenia"
+      ],
+      "correct_index": 0,
+      "explanation": "Elektrické zariadenia s dvojitou izoláciou sa označujú symbolom zdvojeného štvorca."
+    },
+    {
+      "id": 244,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Elektrické zariadenia s dvojitou izoláciou sú označené znakom zdvojeného štvorca. Otázka: Ktoré elektrické zariadenia majú dvojitú izoláciu?",
+      "options": [
+        "a) Elektrické zariadenia triedy ochrany I.",
+        "b) Elektrické zariadenia triedy ochrany II.",
+        "c) Elektrické zariadenia triedy ochrany III."
+      ],
+      "correct_index": 1,
+      "explanation": "Dvojitá izolácia je hlavným ochranným opatrením pre elektrické zariadenia triedy ochrany II."
+    },
+    {
+      "id": 245,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Miesto dvojitej izolácie možno použiť jednovrstvovú zosilnenú izoláciu. Otázka: Čomu musí vyhovovať zosilnená izolácia?",
+      "options": [
+        "a) Musí plniť funkcie dvojitej izolácie",
+        "b) Musí vydržať napätie 20 kV",
+        "c) Musí byť biela",
+        "d) Musí byť ohybná"
+      ],
+      "correct_index": 0,
+      "explanation": "Zosilnená izolácia musí poskytovať rovnaký stupeň ochrany ako dvojitá izolácia."
+    },
+    {
+      "id": 246,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Na viditeľnom mieste niektorých elektrických zariadení je umiestnený znak: v kruhu je znak uzemnenia a celé je to 2x prečiarknuté. Otázka: Čo vyjadruje takýto znak?",
+      "options": [
+        "a) Označuje uzemnenia",
+        "b) Označuje poruchu zariadenia",
+        "c) Prídavná alebo zosilnená izolácia vyhotovená počas montáže",
+        "d) Označuje zákaz manipulovať s elektrickým zariadením"
+      ],
+      "correct_index": 2,
+      "explanation": "Prečiarknutý symbol uzemnenia signalizuje, že zosilnená alebo prídavná izolácia bola vytvorená počas montáže."
+    },
+    {
+      "id": 247,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Na viditeľnom mieste niektorých elektrických zariadení je umiestnený takýto znak: v kruhu je znak uzemnenia. Otázka: Čo vyjadruje takýto znak?",
+      "options": [
+        "a) Označenie svorky na pripojenie ochranného vodiča",
+        "b) Označenie elektrického predmetu triedy III",
+        "c) Označenie meracej svorky bleskozvodu"
+      ],
+      "correct_index": 0,
+      "explanation": "Symbol uzemnenia v kruhu označuje svorku na pripojenie ochranného vodiča (PE)."
+    },
+    {
+      "id": 248,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Čo sa používa ako doplnková izolácia?",
+      "options": [
+        "a) Dvojitá alebo zosilnená izolácia",
+        "b) Izolačný koberec, dielektrické rukavice, galoše, vypínacia tyč",
+        "c) Jedna vrstva izolačnej pásky"
+      ],
+      "correct_index": 1,
+      "explanation": "Doplnková ochrana sú prostriedky (napr. koberce, rukavice), ktoré bránia prietoku prúdu telom do zeme."
+    },
+    {
+      "id": 249,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "V čom spočíva ochrana samočinným odpojením od napájania v sieti TN?",
+      "options": [
+        "a) Odpojenie zariadenia od napätia najbližším istiacim prvkom",
+        "b) Spočíva vo vypnutí napájacieho zdroja",
+        "c) Poruchu signalizuje akusticky",
+        "d) Poruchu signalizuje opticky"
+      ],
+      "correct_index": 0,
+      "explanation": "Pri poruche dôjde k pretečeniu prúdu, ktorý musí zabezpečiť odpojenie zariadenia najbližším istiacim prvkom."
+    },
+    {
+      "id": 250,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Podstata ochrany samočinným odpojením napájania spočíva v odpojení chybnej časti elektrického zariadenia od zdroja. Otázka: Ktorý vodič sa tu používa na vedenie poruchového prúdu do uzemneného neutrálneho bodu?",
+      "options": [
+        "a) Neutrálny vodič N",
+        "b) Ochranný vodič PE (Vodič PEN, TN-C, PEM, PEN js)",
+        "c) Krajný (fázový) vodič L",
+        "d) Je to jedno, ktorý sa použije"
+      ],
+      "correct_index": 1,
+      "explanation": "Poruchový prúd tečie cez neživú časť do ochranného vodiča PE (alebo PEN) naspäť k uzemnenému bodu zdroja."
+    },
+    {
+      "id": 251,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Môžu sa ochranný vodič PE istiť?",
+      "options": [
+        "a) Nesmie sa istiť",
+        "b) Môže sa istiť poistkou alebo ističom",
+        "c) Áno - musí sa istiť",
+        "d) Nie je to stanovené"
+      ],
+      "correct_index": 0,
+      "explanation": "Ochranný vodič PE sa nesmie istiť ani spínať, aby nedošlo k jeho prerušeniu."
+    },
+    {
+      "id": 252,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký má byť celkový odpor uzemnenia vodičov PEN odchádzajúcich z transformovne vrátane jeho uzemneného neutrálneho bodu? (pre sieť 230 V)",
+      "options": [
+        "a) Do 2 Ω",
+        "b) Do 15 Ω",
+        "c) Do 200 Ω",
+        "d) Do 1000 Ω"
+      ],
+      "correct_index": 0,
+      "explanation": "Požadovaný celkový odpor uzemnenia hlavného uzemnenia PEN je do 2 Ω."
+    },
+    {
+      "id": 253,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Kde sa musí uzemniť vodič PEN káblového vedenia v sieti TN-C?",
+      "options": [
+        "a) Každých 500 m",
+        "b) Každých 200 m a na konci vedenia dlhšieho ako 200 m",
+        "c) Na konci vedenia dlhšieho ako 500 m",
+        "d) Každých 2000 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre káblové siete sa vyžaduje uzemnenie každých 200 m a na konci vedenia."
+    },
+    {
+      "id": 254,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Do akého času musí ochranný prvok odpojiť pri ochrane samočinným odpojením od napájania v sieti TN pri menovitom napätí 230 V?",
+      "options": [
+        "a) Do 1 s",
+        "b) Do 0,4 s",
+        "c) Do 0,5 s",
+        "d) Do 5 s"
+      ],
+      "correct_index": 1,
+      "explanation": "Podľa STN 33 2000-4-41 musí byť pre menovité napätie 230 V odpojenie v koncových obvodoch dosiahnuté v čase 0,4 s."
+    },
+    {
+      "id": 255,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Do akého prierezu krajných vodičov sa musí prierez ochranného vodiča rovnať minimálne prierezu krajných vodičov?",
+      "options": [
+        "a) Ak je prierez krajných vodičov do 35 mm²",
+        "b) Ak je prierez krajných vodičov do 16 mm²",
+        "c) Pri priereze ochranného vodiča do 16 mm²",
+        "d) Na priereze nezáleží"
+      ],
+      "correct_index": 1,
+      "explanation": "Ak je prierez fázových vodičov do 16 mm², musí byť prierez PE vodiča minimálne rovnaký."
+    },
+    {
+      "id": 256,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký môže byť minimálny prierez vodiča PE (CU) ak nie je súčasťou kábla a je chránený pred mechanickým poškodením?",
+      "options": [
+        "a) Najmenej 1 mm²",
+        "b) Najmenej 1,5 mm²",
+        "c) Najmenej 2,5 mm²",
+        "d) Vždy musí byť 4 mm²"
+      ],
+      "correct_index": 1,
+      "explanation": "Ak je PE vodič samostatný, ale chránený, minimálny prierez je 1,5 mm² (meď)."
+    },
+    {
+      "id": 257,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký môže byť minimálny prierez vodiča PE (CU) ak nie je súčasťou kábla a nie je chránený (je nechránený) pred mechanickým poškodením?",
+      "options": [
+        "a) Najmenej 1,5 mm²",
+        "b) Najmenej 4 mm²",
+        "c) Najmenej 2,5 mm²",
+        "d) Vždy musí byť 6 mm²"
+      ],
+      "correct_index": 1,
+      "explanation": "Ak je PE vodič samostatný a nechránený, minimálny prierez je 4 mm² (meď)."
+    },
+    {
+      "id": 258,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký minimálny prierez môže mať vodič hlavného pospájania?",
+      "options": [
+        "a) Minimálne 1,5 mm²",
+        "b) Minimálne 2,5 mm²",
+        "c) Minimálne 4 mm²",
+        "d) Minimálne 6 mm²"
+      ],
+      "correct_index": 3,
+      "explanation": "Minimálny prierez vodiča hlavného pospájania musí byť 6 mm² Cu."
+    },
+    {
+      "id": 259,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Vodič hlavného pospájania musí mať minimálny prierez 6 mm² ale nemusí mať väčší prierez ako 25 mm². Otázka: Aký musí byť prierez vodiča hlavného pospájania?",
+      "options": [
+        "a) Minimálne ako tretina prierezu (1/3) najväčšieho vodiča PE",
+        "b) Minimálne ako polovica prierezu (1/2) najväčšieho vodiča PE",
+        "c) Vždy musí byť 6 mm²",
+        "d) Aspoň 2,5 mm²"
+      ],
+      "correct_index": 1,
+      "explanation": "Prierez vodiča hlavného pospájania musí byť najmenej polovica prierezu najväčšieho PE vodiča v inštalácii."
+    },
+    {
+      "id": 260,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Prierezy doplnkového pospájania a vodičov PE musia byť v určitom vzťahu. Otázka: Aký minimálny prierez musia mať vodiče spájajúce dve neživé vodivé časti (doplnkové pospájanie)?",
+      "options": [
+        "a) Minimálne ako je prierez najtenšieho vodiča PE",
+        "b) Minimálne ako polovica prierez najtenšieho vodiča PE",
+        "c) Minimálne ako polovica prierezu najhrubšieho vodiča PE",
+        "d) Minimálne 1,5 mm²"
+      ],
+      "correct_index": 0,
+      "explanation": "Prierez vodiča doplnkového pospájania spájajúceho dve neživé časti musí byť minimálne rovnaký ako prierez najmenšieho PE."
+    },
+    {
+      "id": 261,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký minimálny prierez musí mať vodič pospájania neživej a cudzej vodivej časti?",
+      "options": [
+        "a) Ako prierez zodpovedajúceho ochranného vodiča",
+        "b) Ako polovica prierezu zodpovedajúceho ochranného vodiča",
+        "c) Minimálne 1,5 mm²",
+        "d) Minimálne 5 mm²"
+      ],
+      "correct_index": 1,
+      "explanation": "Prierez vodiča doplnkového pospájania spájajúceho neživú a cudziu vodivú časť musí byť minimálne polovica prierezu PE."
+    },
+    {
+      "id": 262,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký je minimálny prierez doplnkového pospájania ak vodič doplnkového pospájania nie je chránený (je nechránený) pred mechanickým poškodením?",
+      "options": [
+        "a) Minimálne 1 mm²",
+        "b) Minimálne 1,5 mm²",
+        "c) Minimálne 2,5 mm²",
+        "d) Minimálne 4 mm²"
+      ],
+      "correct_index": 3,
+      "explanation": "Ak vodič doplnkového pospájania nie je chránený, jeho minimálny prierez je 4 mm² Cu."
+    },
+    {
+      "id": 263,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Aký je minimálny prierez doplnkového pospájania ak vodič doplnkového pospájania je chránený pred mechanickým poškodením?",
+      "options": [
+        "a) Minimálne 1 mm²",
+        "b) Minimálne 1,5 mm²",
+        "c) Minimálne 2,5 mm²",
+        "d) Minimálne 5 mm²"
+      ],
+      "correct_index": 2,
+      "explanation": "Ak je vodič doplnkového pospájania chránený pred mechanickým poškodením, minimálny prierez je 2,5 mm² Cu."
+    },
+    {
+      "id": 264,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Podstata ochrany elektrickým oddelením spočíva vo vytvorení dokonalo izolačne oddeleného obvodu. Otázka: Aké napätie nesmie presiahnuť elektricky oddelený obvod?",
+      "options": [
+        "a) Nesmie prekročiť 1000 V",
+        "b) Nesmie prekročiť 500 V",
+        "c) Nesmie prekročiť 400 V",
+        "d) Sekundár do 400 V"
+      ],
+      "correct_index": 0,
+      "explanation": "Elektricky oddelený obvod sa používa pre napätia nepresahujúce 1000 V AC."
+    },
+    {
+      "id": 265,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Ako sa volá táto ochrana? Navzájom sa pospájajú všetky neživé časti EZ a okrem toho sa pospájajú so všetkými cudzími vodivými časťami - vodiče pospájania sa ale žiadnym spôsobom nespoja so zemou ani cez vodiče PE a PEN.",
+      "options": [
+        "a) Ochrana uzemnením na náhodné uzemňovače",
+        "b) Ochrana neuzemneným miestnym pospájaním",
+        "c) Ochrana oddelením obvodov"
+      ],
+      "correct_index": 1,
+      "explanation": "Toto je definícia ochranného opatrenia neuzemnené miestne pospájanie."
+    },
+    {
+      "id": 266,
+      "kategoria_tema": "Siete, ochrany, napäťové pásma, prierezy ochranných vodičov",
+      "question": "Elektrický predmet triedy I - je predmet, ktorý má všade aspoň základnú izoláciu. Otázka: Má elektrický predmet triedy I ochrannú svorku alebo ochranný kontakt na pripojenie ochranného vodiča?",
+      "options": [
+        "a) Nie, nemá ochrannú svorku ani ochranný kontakt",
+        "b) Áno, má ochrannú svorku alebo ochranný kontakt"
+      ],
+      "correct_index": 1,
+      "explanation": "Zariadenia triedy I vyžadujú pripojenie neživých častí na ochranný vodič PE. Preto majú ochrannú svorku alebo kontakt."
+    },
+    {
+      "id": 267,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aká je základná jednotka elektrického odporu a akým písmenom sa označuje?",
+      "options": [
+        "a) Volt (V)",
+        "b) Ohm (Ω)",
+        "c) Ampér (A)",
+        "d) Watt (W)"
+      ],
+      "correct_index": 1,
+      "explanation": "Jednotka elektrického odporu je Ohm a označuje sa symbolom Ω (Omega)."
+    },
+    {
+      "id": 268,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aká jednotka sa používa na vyjadrenie elektrickej práce (energie)?",
+      "options": [
+        "a) Coulomb (C)",
+        "b) Joule (J) alebo kilowatthodina (kWh)",
+        "c) Henry (H)",
+        "d) Farad (F)"
+      ],
+      "correct_index": 1,
+      "explanation": "Základná jednotka energie je Joule (J), v praxi sa pre elektrickú energiu často používa aj kilowatthodina (kWh)."
+    },
+    {
+      "id": 269,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ktorá z uvedených jednotiek sa používa pre frekvenciu striedavého prúdu?",
+      "options": [
+        "a) Siemens (S)",
+        "b) Hertz (Hz)",
+        "c) Tesla (T)",
+        "d) Farad (F)"
+      ],
+      "correct_index": 1,
+      "explanation": "Jednotkou frekvencie je Hertz (Hz), ktorý udáva počet cyklov za sekundu."
+    },
+    {
+      "id": 270,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký zákon opisuje vzťah medzi napätím (U), prúdom (I) a odporom (R) v elektrickom obvode?",
+      "options": [
+        "a) Kirchhoffove zákony",
+        "b) Faradayov zákon",
+        "c) Jouleov zákon",
+        "d) Ohmov zákon"
+      ],
+      "correct_index": 3,
+      "explanation": "Ohmov zákon definuje vzťah U = R · I."
+    },
+    {
+      "id": 271,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký prúd preteká rezistorom s odporom 10 Ω, ak je naň pripojené napätie 230 V?",
+      "options": [
+        "a) 2300 A",
+        "b) 23 A",
+        "c) 2,3 A",
+        "d) 10 A"
+      ],
+      "correct_index": 1,
+      "explanation": "Podľa Ohmovho zákona I = U / R, teda 230 V / 10 Ω = 23 A."
+    },
+    {
+      "id": 272,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký je celkový odpor dvoch rezistorov s hodnotou 10 Ω spojených sériovo?",
+      "options": [
+        "a) 5 Ω",
+        "b) 10 Ω",
+        "c) 20 Ω",
+        "d) 100 Ω"
+      ],
+      "correct_index": 2,
+      "explanation": "Pri sériovom zapojení sa odpory sčítajú: R_celk = R1 + R2 = 10 Ω + 10 Ω = 20 Ω."
+    },
+    {
+      "id": 273,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký je celkový odpor dvoch rezistorov s hodnotou 10 Ω spojených paralelne?",
+      "options": [
+        "a) 20 Ω",
+        "b) 5 Ω",
+        "c) 10 Ω",
+        "d) 0,1 Ω"
+      ],
+      "correct_index": 1,
+      "explanation": "Pri paralelnom zapojení rovnakých odporov platí R_celk = R / n, teda 10 Ω / 2 = 5 Ω."
+    },
+    {
+      "id": 274,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Akú fyzikálnu veličinu ukladá kondenzátor?",
+      "options": [
+        "a) Elektrický prúd",
+        "b) Tepelnú energiu",
+        "c) Elektrický náboj (a tým aj energiu)",
+        "d) Magnetický tok"
+      ],
+      "correct_index": 2,
+      "explanation": "Kondenzátor ukladá elektrickú energiu prostredníctvom uskladnenia elektrického náboja na svojich doskách."
+    },
+    {
+      "id": 275,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aká je hlavná funkcia cievky (indukčnosti) v obvode striedavého prúdu?",
+      "options": [
+        "a) Umožňuje plynulý prechod jednosmerného prúdu (DC)",
+        "b) Filtruje nízke frekvencie a ukladá magnetickú energiu",
+        "c) Filtruje vysoké frekvencie a obmedzuje rýchlu zmenu prúdu",
+        "d) Stabilizuje napätie zaťaženia"
+      ],
+      "correct_index": 2,
+      "explanation": "Cievka (indukčnosť) svojou reaktanciou bráni rýchlym zmenám prúdu a filtruje vysoké frekvencie."
+    },
+    {
+      "id": 276,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký elektrický výkon spotrebuje spotrebič, ak ním preteká prúd 5 A pri napätí 230 V (uvažujte účinník cos φ = 1)?",
+      "options": [
+        "a) 115 W",
+        "b) 46 W",
+        "c) 1150 W",
+        "d) 235 W"
+      ],
+      "correct_index": 2,
+      "explanation": "Výkon sa vypočíta ako P = U · I, teda 230 V · 5 A = 1150 W."
+    },
+    {
+      "id": 277,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Čo tvrdí Prvý Kirchhoffov zákon (zákon prúdov)?",
+      "options": [
+        "a) Súčet napätí na uzatvorenej slučke je rovný nule.",
+        "b) Súčet prúdov, ktoré vtekajú do uzla, je rovný súčtu prúdov, ktoré z uzla vytekajú.",
+        "c) Odpor je priamo úmerný napätiu a nepriamo úmerný prúdu.",
+        "d) Práca vykonaná v obvode je rovná súčinu výkonu a času."
+      ],
+      "correct_index": 1,
+      "explanation": "Prvý Kirchhoffov zákon hovorí o zákone zachovania náboja v uzle."
+    },
+    {
+      "id": 278,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Čo tvrdí Druhý Kirchhoffov zákon (zákon napätí)?",
+      "options": [
+        "a) Súčet prúdov v obvode je vždy kladný.",
+        "b) Súčet prúdov v uzle je rovný nule.",
+        "c) Súčet elektromotorických napätí a úbytkov napätí na prvkoch v uzavretej slučke je rovný nule.",
+        "d) Napätie je nepriamo úmerné odporu."
+      ],
+      "correct_index": 2,
+      "explanation": "Druhý Kirchhoffov zákon hovorí o zákone zachovania energie v uzavretej slučke (očku)."
+    },
+    {
+      "id": 279,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Koľko V predstavuje napätie 5 kV?",
+      "options": [
+        "a) 50 V",
+        "b) 500 V",
+        "c) 5000 V",
+        "d) 50 000 V"
+      ],
+      "correct_index": 2,
+      "explanation": "Predpona 'kilo' (k) znamená 1000, teda 5 kV = 5000 V."
+    },
+    {
+      "id": 280,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Koľko A predstavuje prúd 150 mA?",
+      "options": [
+        "a) 150 000 A",
+        "b) 15 A",
+        "c) 0,15 A",
+        "d) 1,5 A"
+      ],
+      "correct_index": 2,
+      "explanation": "Predpona 'mili' (m) predstavuje 10 na -3, teda 150 mA = 0,15 A."
+    },
+    {
+      "id": 281,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aká je jednotka kapacity a akým písmenom sa označuje?",
+      "options": [
+        "a) Tesla (T)",
+        "b) Farad (F)",
+        "c) Weber (Wb)",
+        "d) Voltampér (VA)"
+      ],
+      "correct_index": 1,
+      "explanation": "Jednotka elektrickej kapacity je Farad (F)."
+    },
+    {
+      "id": 282,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aká je hlavná funkcia rezistora v elektrickom obvode?",
+      "options": [
+        "a) Ukladať elektrickú energiu",
+        "b) Meniť frekvenciu signálu",
+        "c) Vytvárať magnetické pole",
+        "d) Obmedzovať tok elektrického prúdu"
+      ],
+      "correct_index": 3,
+      "explanation": "Hlavnou úlohou rezistora je vytvoriť úbytok napätia a obmedziť veľkosť prúdu v obvode."
+    },
+    {
+      "id": 283,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aká je jednotka indukčnosti a akým písmenom sa označuje?",
+      "options": [
+        "a) Farad (F)",
+        "b) Hertz (Hz)",
+        "c) Henry (H)",
+        "d) Voltampér reaktívny (VAr)"
+      ],
+      "correct_index": 2,
+      "explanation": "Jednotka indukčnosti je Henry (H)."
+    },
+    {
+      "id": 284,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aké napätie je potrebné pre prúd 2 A v obvode s odporom 115 Ω?",
+      "options": [
+        "a) 57,5 V",
+        "b) 230 V",
+        "c) 117 V",
+        "d) 2 V"
+      ],
+      "correct_index": 1,
+      "explanation": "Podľa Ohmovho zákona U = R · I, teda 115 Ω · 2 A = 230 V."
+    },
+    {
+      "id": 285,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Prečo v obvode jednosmerného prúdu (DC) plne nabitý kondenzátor nevedie prúd?",
+      "options": [
+        "a) Pretože cievka v obvode obmedzuje prúd.",
+        "b) Pretože je jeho odpor nekonečný.",
+        "c) Pretože sa na ňom ustáli napätie rovné napätiu zdroja a bráni ďalšiemu toku náboja.",
+        "d) Pretože absorbuje všetok prúd."
+      ],
+      "correct_index": 2,
+      "explanation": "Po nabití kondenzátora na napätie zdroja je rozdiel potenciálov nulový, čo bráni ďalšiemu toku prúdu."
+    },
+    {
+      "id": 286,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký je vzťah medzi energiou (W), výkonom (P) a časom (t)?",
+      "options": [
+        "a) W = P / t",
+        "b) W = P · t",
+        "c) P = W · t",
+        "d) t = W · P"
+      ],
+      "correct_index": 1,
+      "explanation": "Energia je definovaná ako výkon násobený časom: W = P · t."
+    },
+    {
+      "id": 287,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ktorá trieda ochrany vyžaduje pripojenie neživých vodivých častí k ochrannému vodiču PE?",
+      "options": [
+        "a) Trieda ochrany II",
+        "b) Trieda ochrany III",
+        "c) Trieda ochrany I",
+        "d) Trieda ochrany 0"
+      ],
+      "correct_index": 2,
+      "explanation": "Zariadenia Triedy I používajú základnú izoláciu a vyžadujú pripojenie na PE vodič."
+    },
+    {
+      "id": 288,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký symbol sa používa na označenie elektrického zariadenia triedy ochrany II?",
+      "options": [
+        "a) Znak ochranného uzemnenia",
+        "b) Znak zdvojeného štvorca",
+        "c) Znak blesku v trojuholníku",
+        "d) Znak pre bezpečné malé napätie"
+      ],
+      "correct_index": 1,
+      "explanation": "Symbol zdvojeného štvorca označuje zariadenie s dvojitou alebo zosilnenou izoláciou."
+    },
+    {
+      "id": 289,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aké ochranné opatrenie je hlavné pre zariadenia triedy ochrany II?",
+      "options": [
+        "a) Ochrana pred prepätím",
+        "b) Automatické odpojenie od napájania pomocou PE vodiča",
+        "c) Použitie malého bezpečného napätia SELV",
+        "d) Dvojitá alebo zosilnená izolácia"
+      ],
+      "correct_index": 3,
+      "explanation": "Hlavným ochranným prostriedkom pre Triedu II je dvojitá izolácia."
+    },
+    {
+      "id": 290,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Zariadenia Triedy ochrany III pracujú na princípe:",
+      "options": [
+        "a) Ochrany uzemnením, ale bez chrániča.",
+        "b) Dvojitej izolácie do 230 V.",
+        "c) Napájania bezpečným malým napätím (SELV alebo PELV).",
+        "d) Ochrany prúdovým chráničom 30 mA."
+      ],
+      "correct_index": 2,
+      "explanation": "Trieda III je definovaná ako ochrana použitím bezpečného malého napätia."
+    },
+    {
+      "id": 291,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aké je maximálne povolené napätie pre zariadenia Triedy ochrany III?",
+      "options": [
+        "a) Do 230 V AC",
+        "b) Do 50 V AC a 120 V DC",
+        "c) Do 1 kV AC",
+        "d) Do 100 V AC"
+      ],
+      "correct_index": 1,
+      "explanation": "Maximálne bezpečné napätie pre Triedu III je stanovené do 50 V AC a 120 V DC."
+    },
+    {
+      "id": 292,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Zásuvky pre spotrebiče Triedy III:",
+      "options": [
+        "a) Musia byť rovnakej konštrukcie ako bežné zásuvky.",
+        "b) Sú špeciálne navrhnuté tak, aby sa nedali zameniť s inými napäťovými sústavami.",
+        "c) Musia mať vždy ochranný kolík.",
+        "d) Môžu sa použiť len v suchom prostredí."
+      ],
+      "correct_index": 1,
+      "explanation": "Zásuvky pre Triedu III musia byť nezameniteľné s bežnými sieťovými zásuvkami."
+    },
+    {
+      "id": 293,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Je pre spotrebiče Triedy ochrany II potrebný ochranný vodič (PE) v prívodnej šnúre?",
+      "options": [
+        "a) Áno, je povinný ako doplňujúca ochrana.",
+        "b) Nie, nie je potrebný, pretože ochranu zaisťuje dvojitá izolácia.",
+        "c) Áno, ale len pre prenosné spotrebiče nad 1 kW.",
+        "d) Nie, iba ak sa jedná o vidlice pre 230 V."
+      ],
+      "correct_index": 1,
+      "explanation": "Vodič PE nie je potrebný pre Triedu II, nakoľko ochranu poskytuje dvojitá izolácia."
+    },
+    {
+      "id": 294,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ktorá trieda ochrany sa spolieha len na základnú izoláciu a nemá pripojenie k ochrannému vodiču PE?",
+      "options": [
+        "a) Trieda ochrany I",
+        "b) Trieda ochrany II",
+        "c) Trieda ochrany III",
+        "d) Trieda ochrany 0"
+      ],
+      "correct_index": 3,
+      "explanation": "Trieda 0 sa spoliehala len na základnú izoláciu bez dodatočnej ochrany."
+    },
+    {
+      "id": 295,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ktorá trieda ochrany je určená pre bezpečné malé napätie SELV/PELV?",
+      "options": [
+        "a) Trieda ochrany I",
+        "b) Trieda ochrany II",
+        "c) Trieda ochrany III",
+        "d) Trieda ochrany 0"
+      ],
+      "correct_index": 2,
+      "explanation": "Zariadenia SELV/PELV patria do Triedy ochrany III."
+    },
+    {
+      "id": 296,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký je hlavný rozdiel v ochrane medzi Triedou I a Triedou II?",
+      "options": [
+        "a) Trieda I má PE vodič, Trieda II nemá PE vodič a má dvojitú izoláciu.",
+        "b) Trieda I je pre 12 V, Trieda II pre 230 V.",
+        "c) Trieda I chráni pred priamym dotykom, Trieda II pred nepriamym.",
+        "d) Trieda I je pre jednosmerný prúd, Trieda II pre striedavý prúd."
+      ],
+      "correct_index": 0,
+      "explanation": "Trieda I chráni uzemnením, Trieda II dvojitou alebo zosilnenou izoláciou."
+    },
+    {
+      "id": 297,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký je hlavný účel prúdového chrániča (RCD)?",
+      "options": [
+        "a) Chrániť pred preťažením obvodu a skratom.",
+        "b) Chrániť spotrebiče pred prepätím.",
+        "c) Zabezpečiť ochranu pred úrazom elektrickým prúdom meraním zvodového prúdu do zeme.",
+        "d) Stabilizovať napätie v sieti."
+      ],
+      "correct_index": 2,
+      "explanation": "Hlavným účelom RCD je ochrana ľudského života pred úrazom detekciou zvodových prúdov."
+    },
+    {
+      "id": 298,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aká je maximálna menovitá reziduálna prúdová hodnota IΔn pre všeobecnú ochranu osôb?",
+      "options": [
+        "a) 10 mA",
+        "b) 30 mA",
+        "c) 100 mA",
+        "d) 300 mA"
+      ],
+      "correct_index": 1,
+      "explanation": "Pre všeobecnú ochranu osôb sa vyžaduje chránič s vypínacou hodnotou 30 mA."
+    },
+    {
+      "id": 299,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ktorý typ prúdového chrániča (RCD) je v súčasnosti povinný pre bežné zásuvkové obvody v domácnostiach kvôli prítomnosti elektroniky (napr. PC, práčka)?",
+      "options": [
+        "a) Typ A",
+        "b) Typ AC",
+        "c) Typ F",
+        "d) Typ B"
+      ],
+      "correct_index": 0,
+      "explanation": "V moderných inštaláciách sa už Typ AC neodporúča (v niektorých krajinách EÚ je zakázaný), pretože nedokáže správne reagovať na poruchové prúdy s jednosmernou zložkou, ktoré produkuje moderná elektronika. Štandardom je Typ A."
+    },
+    {
+      "id": 300,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ktorý typ RCD je vhodný pre striedavé sínusové prúdy a pulzujúce jednosmerné reziduálne prúdy?",
+      "options": [
+        "a) Typ B",
+        "b) Typ AC",
+        "c) Typ A",
+        "d) Typ S"
+      ],
+      "correct_index": 2,
+      "explanation": "Typ A detekuje sínusové AC prúdy a pulzujúce DC prúdy."
+    },
+    {
+      "id": 301,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký typ prúdového chrániča musí byť použitý pre obvody s frekvenčnými meničmi?",
+      "options": [
+        "a) Typ AC",
+        "b) Typ A",
+        "c) Typ B",
+        "d) Typ F"
+      ],
+      "correct_index": 2,
+      "explanation": "Typ B je jediný, ktorý spoľahlivo detekuje hladké jednosmerné reziduálne prúdy."
+    },
+    {
+      "id": 302,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Čo znamená selektívny (S) prúdový chránič?",
+      "options": [
+        "a) Chráni len vybrané koncové obvody.",
+        "b) Má zabudovanú ochranu pred prepätím.",
+        "c) Má časové oneskorenie vypnutia, aby vypol iba chránič bližšie k miestu poruchy.",
+        "d) Dokáže automaticky prepínať medzi Typom A a Typom B."
+      ],
+      "correct_index": 2,
+      "explanation": "Selektívny RCD má nastavené časové oneskorenie pre koordináciu s inými chráničmi."
+    },
+    {
+      "id": 303,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Čo znamená, že chránič je 'odolný proti rázovým prúdom'?",
+      "options": [
+        "a) Je určený na použitie v sieti s prepätiami.",
+        "b) Má časové oneskorenie, ktoré zabráni falošnému vypnutiu pri krátkodobom prúdovom ráze.",
+        "c) Má vyššiu vypínaciu hodnotu IΔn.",
+        "d) Dokáže detekovať nielen AC, ale aj DC prúdy."
+      ],
+      "correct_index": 1,
+      "explanation": "Odolnosť voči rázovým prúdom zabraňuje falošnému vypínaniu pri prechodných javoch."
+    },
+    {
+     "id": 304,
+  "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+  "question": "Aký je maximálny povolený čas vypnutia pre štandardný prúdový chránič (RCD) bez časového oneskorenia pri teste 5-násobkom menovitého rozdielového prúdu (5x Idn)?",
+  "options": [
+    "a) 300 ms",
+    "b) 150 ms",
+    "c) 40 ms",
+    "d) 400 ms"
+  ],
+  "correct_index": 2,
+  "explanation": "Pri revíznom teste sa overuje rýchlosť vypnutia. Pre štandardný (nepozdený) chránič je pri 5-násobnom prúde Idn limit 40 milisekúnd."
+    },
+    {
+      "id": 305,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký je symbol pre typ B prúdového chrániča?",
+      "options": [
+        "a) Sínusovka v rámiku",
+        "b) Sínusovka a pulzujúca jednosmerná vlna v rámiku",
+        "c) Sínusovka a hladká jednosmerná čiara v rámiku",
+        "d) Štvorec s písmenom S"
+      ],
+      "correct_index": 2,
+      "explanation": "Symbol Typu B zahŕňa AC sínusovku a hladkú DC čiaru."
+    },
+    {
+      "id": 306,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Kde v sieti TN-C je dovolené použiť prúdový chránič?",
+      "options": [
+        "a) Na vstupe do objektu.",
+        "b) V sieti TN-C je zakázané použiť RCD",
+        "c) Na obvody s rýchlovarnou kanvicou.",
+        "d) Na trojfázové obvody."
+      ],
+      "correct_index": 1,
+      "explanation": "Prúdový chránič smie byť použitý len v sústave TN-C-S a TN-S v bode kde je vodič N a vodič PE vedený samostatne."
+    },
+    {
+      "id": 307,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký je hlavný účel prepäťovej ochrany (SPD)?",
+      "options": [
+        "a) Chrániť pred úrazom elektrickým prúdom.",
+        "b) Predĺžiť životnosť žiaroviek.",
+        "c) Znížiť sieťové napätie 230 V na bezpečné napätie.",
+        "d) Obmedziť prechodné prepätia atmosférického alebo spínacieho pôvodu na bezpečnú úroveň."
+      ],
+      "correct_index": 3,
+      "explanation": "Hlavným cieľom SPD je ochrana zariadení a inštalácie pred poškodením prepätím."
+    },
+    {
+      "id": 308,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ktorý typ SPD sa inštaluje na vstupe do objektu a chráni pred priamym úderom blesku?",
+      "options": [
+        "a) SPD Typ 3",
+        "b) SPD Typ 2",
+        "c) SPD Typ 1",
+        "d) SPD Typ A"
+      ],
+      "correct_index": 2,
+      "explanation": "SPD Typ 1 je zvodič bleskových prúdov, inštaluje sa na vstupe."
+    },
+    {
+      "id": 309,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ktorý typ SPD sa inštaluje v hlavných rozvádzačoch a chráni pred spínacím a zvyškovým prepätím?",
+      "options": [
+        "a) SPD Typ 1",
+        "b) SPD Typ 2",
+        "c) SPD Typ 3",
+        "d) SPD Typ B"
+      ],
+      "correct_index": 1,
+      "explanation": "SPD Typ 2 sa inštaluje do rozvádzačov na obmedzenie spínacích a zvyškových prepätí."
+    },
+    {
+      "id": 310,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ktorý typ SPD sa inštaluje čo najbližšie k citlivému spotrebiču?",
+      "options": [
+        "a) SPD Typ 1",
+        "b) SPD Typ 2",
+        "c) SPD Typ 3",
+        "d) SPD Typ 1+2"
+      ],
+      "correct_index": 2,
+      "explanation": "SPD Typ 3 slúži ako koncový stupeň ochrany."
+    },
+    {
+      "id": 311,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký je hlavný princíp funkcie zvodičov prepätia?",
+      "options": [
+        "a) Blokujú akékoľvek napätie nad 230 V pomocou poistky.",
+        "b) Zvyšujú svoj odpor pri zvýšenom napätí.",
+        "c) Znižujú svoj odpor pri prekročení pracovného napätia a odvádzajú prúd do zeme/PE.",
+        "d) Ukladajú prebytočnú energiu do batérie."
+      ],
+      "correct_index": 2,
+      "explanation": "Zvodiče pri prepätí prudko znížia odpor a odvedú prepäťový prúd do zeme."
+    },
+    {
+      "id": 312,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aká je povinná minimálna koordinácia prepäťovej ochrany v obytných budovách?",
+      "options": [
+        "a) Iba SPD Typ 3.",
+        "b) Len SPD Typ 1.",
+        "c) Minimálne koordinácia SPD Typ 1 + Typ 2.",
+        "d) Iba SPD Typ 2."
+      ],
+      "correct_index": 2,
+      "explanation": "V obytných budovách je požadovaná minimálne koordinácia Typ 1 + Typ 2."
+    },
+    {
+      "id": 313,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Ako sa označuje maximálne trvalé prevádzkové napätie prepäťovej ochrany?",
+      "options": [
+        "a) Imax (Maximálny prúd výboja)",
+        "b) Up (Ochranná napäťová úroveň)",
+        "c) Uc (Maximálne trvalé prevádzkové napätie)",
+        "d) In (Menovitý vybíjací prúd)"
+      ],
+      "correct_index": 2,
+      "explanation": "Maximálne trvalé prevádzkové napätie je označené ako Uc."
+    },
+    {
+      "id": 314,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Aký je rozdiel medzi zvodičom prepätia (SPD Typ 1) a prepäťovou ochranou (SPD Typ 2)?",
+      "options": [
+        "a) Typ 1 je pre DC, Typ 2 pre AC.",
+        "b) Typ 1 chráni pred priamym úderom blesku, Typ 2 pred spínacími prepätiami.",
+        "c) Typ 1 je určený pre 230 V, Typ 2 pre 400 V.",
+        "d) Typ 1 je len iskrište, Typ 2 je len varistor."
+      ],
+      "correct_index": 1,
+      "explanation": "Typ 1 zvláda priamy úder blesku, Typ 2 zvláda spínacie prepätia."
+    },
+    {
+      "id": 315,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Prečo je dôležitá krátka vzdialenosť (dĺžka vodičov) pri inštalácii SPD?",
+      "options": [
+        "a) Dlhé vodiče spotrebúvajú viac energie.",
+        "b) Dlhé vodiče zvyšujú prúdové zaťaženie SPD.",
+        "c) Dlhšie vodiče zvyšujú napäťovú úroveň Up v dôsledku indukčnosti.",
+        "d) Je to len estetická požiadavka."
+      ],
+      "correct_index": 2,
+      "explanation": "Čím sú prívodné vodiče k SPD dlhšie, tým sa zvyšuje ich indukčnosť a celkové napätie Up."
+    },
+    {
+      "id": 316,
+      "kategoria_tema": "Základy elektrotechniky, ochrán a meraní",
+      "question": "Čo sa stane s SPD (najmä Typ 2) po mnohých prepäťových udalostiach?",
+      "options": [
+        "a) Zvýši sa jeho životnosť.",
+        "b) Zvýši sa jeho ochranná úroveň Up.",
+        "c) Postupne sa degraduje a na konci svojej životnosti sa odpojí od siete.",
+        "d) Zvýši sa jeho prevádzkové napätie Uc."
+      ],
+      "correct_index": 2,
+      "explanation": "Varistory SPD Typu 2 sa pri každom prepätí mierne degradujú, až kým sa SPD neodpojí."
+    }
+  ]
+}
+
+
+
+
+
